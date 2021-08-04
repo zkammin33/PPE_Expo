@@ -1,0 +1,1988 @@
+UN 1001 Acetylene, dissolved
+UN 1002 Air, compressed
+UN 1003 Air, refrigerated liquid, (cryogenic liquid)
+UN 1003 Air, refrigerated liquid, (cryogenic liquid) non-pressurized
+UN 1005 Ammonia, anhydrous
+UN 1005 Ammonia, anhydrous
+UN 1006 Argon, compressed
+UN 1008 Boron trifluoride
+UN 1009 Bromotrifluoromethane or Refrigerant gas, R 13B1.
+UN 1010 Butadienes, stabilized or Butadienes and Hydrocarbon mixture, stabilized containing more than 40% butadienes
+UN 1011 Butane see also Petroleum gases, liquefied
+UN 1012 Butylene see also Petroleum gases, liquefied
+UN 1013 Carbon dioxide
+UN 1016 Carbon monoxide, compressed
+UN 1017 Chlorine
+UN 1018 Chlorodifluoromethane or Refrigerant gas R 22
+UN 1020 Chloropentafluoroethane or Refrigerant gas R 115
+UN 1021 1-Chloro-1,2,2,2-tetrafluoroethane or Refrigerant gas R 124
+UN 1022 Chlorotrifluoromethane or Refrigerant gas R 13
+UN 1023 Coal gas, compressed
+UN 1026 Cyanogen
+UN 1027 Cyclopropane
+UN 1028 Dichlorodifluoromethane or Refrigerant gas R 12
+UN 1029 Dichlorofluoromethane or Refrigerant gas R 21
+UN 1030 1,1-Difluoroethane or Refrigerant gas R 152a
+UN 1032 Dimethylamine, anhydrous
+UN 1033 Dimethyl ether
+UN 1035 Ethane
+UN 1036 Ethylamine
+UN 1037 Ethyl chloride
+UN 1038 Ethylene, refrigerated liquid (cryogenic liquid)
+UN 1039 Ethyl methyl ether
+UN 1040 Ethylene oxide or Ethylene oxide with nitrogen up to a total pressure of 1MPa (10 bar) at 50 °C
+UN 1041 Ethylene oxide and carbon dioxide mixtures with more than 9 percent but not more than 87 percent ethylene oxide
+UN 1043 Fertilizer ammoniating solution with free ammonia
+UN 1044 Fire extinguishers containing compressed or liquefied gas
+UN 1045 Fluorine, compressed
+UN 1046 Helium, compressed
+UN 1048 Hydrogen bromide, anhydrous
+UN 1049 Hydrogen, compressed
+UN 1050 Hydrogen chloride, anhydrous
+UN 1051 Hydrogen cyanide, stabilized with less than 3 percent water
+UN 1052 Hydrogen fluoride, anhydrous
+UN 1053 Hydrogen sulfide
+UN 1055 Isobutylene see also Petroleum gases, liquefied
+UN 1056 Krypton, compressed
+UN 1057 Lighters containing flammable gas
+UN 1057 Lighter refills containing flammable gas not exceeding 4 fluid ounces (7.22 cubic inches) and 65 grams of flammable gas
+UN 1058 Liquified gases, nonflammable charged with nitrogen, carbon dioxide, or air
+UN 1060 Methyl acetylene and propadiene mixtures, stabilized
+UN 1061 Methylamine, anhydrous
+UN 1062 Methyl bromide
+UN 1063 Methyl chloride, or Refrigerant gas R 40
+UN 1064 Methyl mercaptan
+UN 1065 Neon, compressed
+UN 1066 Nitrogen, compressed
+UN 1067 Dinitrogen tetroxide
+UN 1069 Nitrosyl chloride
+UN 1070 Nitrous oxide
+UN 1071 Oil gas, compressed
+UN 1072 Oxygen, compressed
+UN 1073 Oxygen, refrigerated liquid (cryogenic liquid)
+UN 1075 Petroleum gases, liquefied or Liquefied petroleum gas
+UN 1076 Phosgene
+UN 1077 Propylene see also Petroleum gases, liquefied
+UN 1078 Refrigerant gases, n.o.s.
+UN 1079 Sulfur dioxide
+UN 1080 Sulfur hexafluoride
+UN 1081 Tetrafluoroethylene, stabilized
+UN 1082 Trifluorochloroethylene, stabilized or Refrigerant gas R 1113
+UN 1083 Trimethylamine, anhydrous
+UN 1085 Vinyl bromide, stabilized
+UN 1086 Vinyl chloride, stabilized or Vinyl chloride, stabilized
+UN 1087 Vinyl methyl ether, stabilized
+UN 1088 Acetal
+UN 1089 Acetaldehyde
+UN 1090 Acetone
+UN 1091 Acetone oils
+UN 1092 Acrolein, stabilized
+UN 1093 Acrylonitrile, stabilized
+UN 1098 Allyl alcohol
+UN 1099 Allyl bromide
+UN 1100 Allyl chloride
+UN 1104 Amyl acetates
+UN 1105 Pentanols
+UN 1106 Amylamines
+UN 1107 Amyl chlorides
+UN 1108 1-Pentene (n-amylene)
+UN 1109 Amyl formates
+UN 1110 n-Amyl methyl ketone
+UN 1111 Amyl mercaptans
+UN 1112 Amyl nitrate
+UN 1113 Amyl nitrites
+UN 1114 Benzene
+UN 1120 Butanols
+UN 1123 Butyl acetates
+UN 1125 n-Butylamine
+UN 1126 1-Bromobutane
+UN 1127 Chlorobutanes
+UN 1128 n-Butyl formate
+UN 1129 Butyraldehyde
+UN 1130 Camphor oil
+UN 1131 Carbon disulfide
+UN 1133 Adhesives, containing a flammable liquid
+UN 1134 Chlorobenzene
+UN 1135 Ethylene chlorohydrin
+UN 1136 Coal tar distillates, flammable
+UN 1139 Coating solution (includes surface treatments or coatings used for industrial or other purposes such as vehicle undercoating, drum or barrel lining)
+UN 1143 Crotonaldehyde, stabilized
+UN 1144 Crotonylene
+UN 1145 Cyclohexane
+UN 1146 Cyclopentane
+UN 1147 Decahydronaphthalene
+UN 1148 Diacetone alcohol
+UN 1149 Dibutyl ethers
+UN 1150 1,2-Dichloroethylene
+UN 1152 Dichloropentanes
+UN 1153 Ethylene glycol diethyl ether
+UN 1154 Diethylamine
+UN 1155 Diethyl ether or Ethyl ether
+UN 1156 Diethyl ketone
+UN 1157 Diisobutyl ketone
+UN 1158 Diisopropylamine
+UN 1159 Diisopropyl ether
+UN 1160 Dimethylamine solution
+UN 1161 Dimethyl carbonate
+UN 1162 Dimethyldichlorosilane
+UN 1163 Dimethylhydrazine, unsymmetrical
+UN 1164 Dimethyl sulfide
+UN 1165 Dioxane
+UN 1166 Dioxolane
+UN 1167 Divinyl ether, inhibited
+UN 1169 Extracts, aromatic, liquid
+UN 1170 Ethanol (Ethyl alcohol) or Ethanol solution (Ethyl alcohol solution)
+UN 1171 Ethylene glycol monoethyl ether
+UN 1172 Ethylene glycol monoethyl ether acetate
+UN 1173 Ethyl acetate
+UN 1175 Ethylbenzene
+UN 1176 Ethyl borate
+UN 1177 2-Ethylbutyl acetate
+UN 1178 2-Ethylbutyraldehyde
+UN 1179 Ethyl butyl ether
+UN 1180 Ethyl butyrate
+UN 1181 Ethyl chloroacetate
+UN 1182 Ethyl chloroformate
+UN 1183 Ethyldichlorosilane
+UN 1184 Ethylene dichloride
+UN 1185 Ethyleneimine, inhibited
+UN 1188 Ethylene glycol monomethyl ether
+UN 1189 Ethylene glycol monomethyl ether acetate
+UN 1190 Ethyl formate
+UN 1191 Octyl aldehydes
+UN 1192 Ethyl lactate
+UN 1193 Ethyl methyl ketone or Methyl ethyl ketone
+UN 1194 Ethyl nitrate solutions
+UN 1195 Ethyl propionate
+UN 1196 Ethyltrichlorosilane
+UN 1197 Extracts, flavoring, liquid
+UN 1198 Formaldehyde, solutions, flammable
+UN 1199 Furaldehydes
+UN 1201	Fusel oil
+UN 1202	Gas oil or diesel fuel or heating oil, light
+UN 1203	Gasoline or petrol or motor spirit
+UN 1204	Nitroglycerin, solution in alcohol, with not more than 1 percent nitroglycerin
+UN 1206	Heptanes
+UN 1207	Hexaldehyde
+UN 1208	Hexanes
+UN 1210	Printing ink, flammable or Printing ink related material (including printing ink thinning or reducing compound), flammable
+UN 1212	Isobutanol or isobutyl alcohol
+UN 1213	Isobutyl acetate
+UN 1214	Isobutylamine
+UN 1216	Isooctenes
+UN 1218	Isoprene, inhibited
+UN 1219	Isopropanol or isopropyl alcohol
+UN 1220	Isopropyl acetate
+UN 1221	Isopropylamine
+UN 1222	Isopropyl nitrate
+UN 1223	Kerosene
+UN 1224	Ketones, liquid, n.o.s.
+UN 1228	Mercaptans, liquid, flammable, toxic, n.o.s. or mercaptan mixtures, liquid, flammable, toxic, n.o.s.
+UN 1229	Mesityl oxide
+UN 1230	Methanol
+UN 1231	Methyl acetate
+UN 1233	Methylamyl acetate
+UN 1234	Methylal
+UN 1235	Methylamine, aqueous solution
+UN 1237	Methyl butyrate
+UN 1238	Methyl chloroformate
+UN 1239	Methyl chloromethyl ether
+UN 1242	Methyldichlorosilane
+UN 1243	Methyl formate
+UN 1244	Methylhydrazine
+UN 1245	Methyl isobutyl ketone
+UN 1246	Methyl isopropenyl ketone, inhibited
+UN 1247	Methyl methacrylate monomer, inhibited
+UN 1248	Methyl propionate
+UN 1249	Methyl propyl ketone
+UN 1250	Methyltrichlorosilane
+UN 1251	Methyl vinyl ketone, stabilized
+UN 1259	Nickel carbonyl
+UN 1261	Nitromethane
+UN 1262	Octanes
+UN 1263	Paint-related materials including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler, and liquid lacquer base, or paint related material including paint thinning, drying, removing, or reducing compound
+UN 1264	Paraldehyde
+UN 1265	Pentanes
+UN 1266	Perfumery products with flammable solvents
+UN 1267	Petroleum crude oil
+UN 1268	Petroleum distillates, n.o.s. or petroleum products, n.o.s.
+UN 1272	Pine oil
+UN 1274	n-Propanol or propyl alcohol, normal
+UN 1275	Propionaldehyde
+UN 1276	n-Propyl acetate
+UN 1277	Propylamine
+UN 1278	Propyl chloride
+UN 1279	1,2-Dichloropropane
+UN 1280	Propylene oxide
+UN 1281	Propyl formates
+UN 1282	Pyridine
+UN 1286	Rosin oil
+UN 1287	Rubber solution
+UN 1288	Shale oil
+UN 1289	Sodium methylate solutions in alcohol
+UN 1292	Tetraethyl silicate
+UN 1293	Tinctures, medicinal
+UN 1294	Toluene
+UN 1295	Trichlorosilane
+UN 1296	Triethylamine
+UN 1297	Trimethylamine, aqueous solutions with not more than 50 percent trimethylamine by mass
+UN 1298	Trimethylchlorosilane
+UN 1299	Turpentine
+UN 1300	Turpentine substitute or mineral turpentine (Australia)
+UN 1301 Vinyl acetate, inhibited
+UN 1302 Vinyl ethyl ether, inhibited
+UN 1303 Vinylidene chloride, inhibited
+UN 1304 Vinyl isobutyl ether, inhibited
+UN 1305 Vinyltrichlorosilane, inhibited
+UN 1306 Wood preservatives, liquid
+UN 1307 Xylenes
+UN 1308 Zirconium suspended in a liquid
+UN 1309 Aluminium powder, coated
+UN 1310 Ammonium picrate, wetted with not less than 10 percent water, by mass
+UN 1312 Borneol
+UN 1313 Calcium resinate
+UN 1314 Calcium resinate, fused
+UN 1318 Cobalt resinate, precipitated
+UN 1320 Dinitrophenol, wetted with not less than 15 percent water, by mass
+UN 1321 Dinitrophenolates, wetted with not less than 15 percent water, by mass
+UN 1322 Dinitroresorcinol, wetted with not less than 15 percent water, by mass
+UN 1323 Ferrocerium
+UN 1324 Films, nitrocellulose base, gelatine coated (except scrap)
+UN 1325 Flammable solids, organic, n.o.s.
+UN 1326 Hafnium powder, wetted with not less than 25% water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 micrometres; (b) chemically produced, particle size less than 840 micrometres
+UN 1327 Hay, Straw or Bhusa, wet, damp or contaminated with oil
+UN 1328 Hexamethylenetetramine
+UN 1330 Manganese resinate
+UN 1331 Matches, strike anywhere
+UN 1332 Metaldehyde
+UN 1333 Cerium, slabs, ingots, or rods
+UN 1334 Naphthalene, crude or Naphthalene, refined
+UN 1336 Nitroguanidine, wetted or Picrite, wetted with not less than 20 percent water, by mass
+UN 1337 Nitrostarch, wetted with not less than 20 percent water, by mass
+UN 1338 Phosphorus, amorphous
+UN 1339 Phosphorus heptasulfide, free from yellow or white phosphorus
+UN 1340 Phosphorus pentasulfide, free from yellow or white phosphorus
+UN 1341 Phosphorus sesquisulfide, free from yellow or white phosphorus
+UN 1343 Phosphorus trisulfide, free from yellow or white phosphorus
+UN 1344 Trinitrophenol, wetted with not less than 30 percent water, by mass
+UN 1345 Rubber scrap or shoddy
+UN 1346 Silicon powder, amorphous
+UN 1347 Silver picrate, wetted with not less than 30 percent water, by mass
+UN 1348 Sodium dinitro-o-cresolate, wetted with not less than 15 percent water, by mass
+UN 1349 Sodium picramate, wetted with not less than 20 percent water, by mass
+UN 1350 Sulfur
+UN 1352 Titanium powder, wetted with not less than 25 percent water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 micrometres; (b) chemically produced, particle size less than 840 micrometres
+UN 1353 Fibers or Fabrics impregnated with weakly nitrated nitrocellulose, n.o.s.
+UN 1354 Trinitrobenzene, wetted with not less than 30 percent water, by mass
+UN 1355 Trinitrobenzoic acid, wetted with not less than 30 percent water, by mass
+UN 1356 Trinitrotoluene wetted with not less than 30 percent water, by mass
+UN 1357 Urea nitrate, wetted with not less than 20 percent water, by mass
+UN 1358 Zirconium powder, wetted with not less than 25 percent water (a visible excess of water must be present) (a) mechanically produced, particle size less than 53 micrometres; (b) chemically produced, particle size less than 840 micrometres
+UN 1360 Calcium phosphide
+UN 1361 Carbon, animal or vegetable origin
+UN 1362 Carbon, activated
+UN 1363 Copra
+UN 1364 Cotton waste, oily
+UN 1365 Cotton, wet
+UN 1369 p-Nitrosodimethylaniline
+UN 1372 Fibers, animal or Fibers, vegetable, burnt, wet or damp
+UN 1373 Fibers or Fabrics, animal or vegetable or Synthetic, n.o.s. with animal or vegetable oil
+UN 1374 Fish meal, unstabilized or Fish scrap, unstabilized
+UN 1376 Iron oxide, spent, or Iron sponge, spent obtained from coal gas purification
+UN 1378 Metal catalyst, wetted with a visible excess of liquid
+UN 1379 Paper, unsaturated oil treated incompletely dried (including carbon paper)
+UN 1380 Pentaborane
+UN 1381 Phosphorus, white dry or Phosphorus, white, under water or Phosphorus white, in solution or Phosphorus, yellow dry or Phosphorus, yellow, under water or Phosphorus, yellow, in solution
+UN 1382 Potassium sulfide, anhydrous or Potassium sulfide with less than 30 percent water of crystallization
+UN 1383 Pyrophoric metals, n.o.s. or Pyrophoric alloys, n.o.s.
+UN 1384 Sodium dithionite or Sodium hydrosulfite
+UN 1385 Sodium sulfide, anhydrous or Sodium sulfide with less than 30 percent water of crystallization
+UN 1386 Seed cake, containing vegetable oil solvent extractions and expelled seeds, with not more than 10 percent of oil and when the amount of moisture is higher than 11 percent, with not more than 20 percent of oil and moisture combined or Seed cake with more than 1.5 percent oil and not more than 11 percent moisture. It is not to be confused with bush bread, which is also referred to as seed cake.
+UN 1387 Wool waste, wet
+UN 1389 Alkali metal amalgam, liquid or Alkali metal amalgam, solid
+UN 1390 Alkali metal amides
+UN 1391 Alkali metal dispersions, or Alkaline earth metal dispersions
+UN 1392 Alkaline earth metal amalgams
+UN 1393 Alkaline earth metal alloys, n.o.s.
+UN 1394 Aluminium carbide
+UN 1395 Aluminium ferrosilicon powder
+UN 1396 Aluminium powder, uncoated
+UN 1397 Aluminium phosphide
+UN 1398 Aluminium silicon powder, uncoated
+UN 1400 Barium
+UN 1401 Calcium
+UN 1402 Calcium carbide
+UN 1403 Calcium cyanamide with more than 0.1 percent of calcium carbide
+UN 1404 Calcium hydride
+UN 1405 Calcium silicide
+UN 1407 Caesium or Cesium
+UN 1408 Ferrosilicon, with 30 percent or more but less than 90 percent silicon
+UN 1409 Metal hydrides, water-reactive, n.o.s.
+UN 1410 Lithium aluminium hydride
+UN 1411 Lithium aluminium hydride, ethereal
+UN 1413 Lithium borohydride
+UN 1414 Lithium hydride
+UN 1415 Lithium
+UN 1417 Lithium silicon
+UN 1418 Magnesium, powder or Magnesium alloys, powder
+UN 1419 Magnesium aluminium phosphide
+UN 1420 Potassium, metal alloys
+UN 1421 Alkali metal alloys, liquid, n.o.s.
+UN 1422 Potassium sodium alloys
+UN 1423 Rubidium
+UN 1426 Sodium borohydride
+UN 1427 Sodium hydride
+UN 1428 Sodium
+UN 1431 Sodium methylate
+UN 1432 Sodium phosphide
+UN 1433 Stannic phosphide
+UN 1434 Strontium
+UN 1435 Zinc ashes
+UN 1436 Zinc powder or Zinc dust
+UN 1437 Zirconium hydride
+UN 1438 Aluminium nitrate
+UN 1439 Ammonium dichromate
+UN 1442 Ammonium perchlorate
+UN 1444 Ammonium persulfate
+UN 1445 Barium chlorate
+UN 1446 Barium nitrate
+UN 1447 Barium perchlorate
+UN 1448 Barium permanganate
+UN 1449 Barium peroxide
+UN 1450 Bromates, inorganic, n.o.s.
+UN 1451 Caesium nitrate or Cesium nitrate
+UN 1452 Calcium chlorate
+UN 1453 Calcium chlorite
+UN 1454 Calcium nitrate
+UN 1455 Calcium perchlorate
+UN 1456 Calcium permanganate
+UN 1457 Calcium peroxide
+UN 1458 Chlorate and borate mixtures
+UN 1459 Chlorate and Magnesium chloride mixtures, solid
+UN 1461 Chlorates, inorganic, n.o.s.
+UN 1462 Chlorites, inorganic, n.o.s.
+UN 1463 Chromium trioxide, anhydrous
+UN 1465 Didymium nitrate
+UN 1466 Ferric nitrate
+UN 1467 Guanidine nitrate
+UN 1469 Lead nitrate
+UN 1470 Lead perchlorate, solid or Lead perchlorate, solution
+UN 1471 Lithium hypochlorite, dry or Lithium hypochlorite mixtures, dry
+UN 1472 Lithium peroxide
+UN 1473 Magnesium bromate
+UN 1474 Magnesium nitrate
+UN 1475 Magnesium perchlorate
+UN 1476 Magnesium peroxide
+UN 1477 Nitrates, inorganic, n.o.s.
+UN 1479 Oxidizing solid, n.o.s.
+UN 1481 Perchlorates, inorganic, n.o.s.
+UN 1482 Permanganates, inorganic, n.o.s.
+UN 1483 Peroxides, inorganic, n.o.s.
+UN 1484 Potassium bromate
+UN 1485 Potassium chlorate
+UN 1486 Potassium nitrate
+UN 1487 Potassium nitrate and sodium nitrite mixtures
+UN 1488 Potassium nitrite
+UN 1489 Potassium perchlorate, solid or Potassium perchlorate, solution
+UN 1490 Potassium permanganate
+UN 1491 Potassium peroxide
+UN 1492 Potassium persulfate
+UN 1493 Silver nitrate
+UN 1494 Sodium bromate
+UN 1495 Sodium chlorate
+UN 1496 Sodium chlorite
+UN 1498 Sodium nitrate
+UN 1499 Sodium nitrate and potassium nitrate mixtures
+UN 1500 Sodium nitrite
+UN 1502 Sodium perchlorate
+UN 1503 Sodium permanganate
+UN 1504 Sodium peroxide
+UN 1505 Sodium persulfate
+UN 1506 Strontium chlorate
+UN 1507 Strontium nitrate
+UN 1508 Strontium perchlorate
+UN 1509 Strontium peroxide
+UN 1510 Tetranitromethane
+UN 1511 Urea hydrogen peroxide
+UN 1512 Zinc ammonium nitrite
+UN 1513 Zinc chlorate
+UN 1514 Zinc nitrate
+UN 1515 Zinc permanganate
+UN 1516 Zinc peroxide
+UN 1517 Zirconium picramate, wetted with not less than 20 percent water, by mass
+UN 1541 Acetone cyanohydrin, stabilized
+UN 1544 Alkaloids, solid, n.o.s. or Alkaloid salts, solid, n.o.s., toxic
+UN 1545 Allyl isothiocyanate, stabilized
+UN 1546 Ammonium arsenate
+UN 1547 Aniline
+UN 1548 Aniline hydrochloride
+UN 1549 Antimony compounds, inorganic, solid, n.o.s.
+UN 1550 Antimony lactate
+UN 1551 Antimony potassium tartrate
+UN 1553 Arsenic acid, liquid
+UN 1554 Arsenic acid, solid
+UN 1555 Arsenic bromide
+UN 1556 Arsenic compounds, liquid, n.o.s. inorganic, including arsenates, n.o.s.; arsenites, n.o.s.; arsenic sulfides, n.o.s.; and organic compounds of arsenic, n.o.s.
+UN 1557 Arsenic compounds, solid, n.o.s. inorganic, including arsenates, n.o.s.; arsenites, n.o.s.; arsenic sulfides, n.o.s.; and organic compounds of arsenic, n.o.s.
+UN 1558 Arsenic
+UN 1559 Arsenic pentoxide
+UN 1560 Arsenic trichloride
+UN 1561 Arsenic trioxide
+UN 1562 Arsenical dust
+UN 1564 Barium compounds, n.o.s.
+UN 1565 Barium cyanide
+UN 1566 Beryllium compounds, n.o.s.
+UN 1567 Beryllium, powder
+UN 1569 Bromoacetone
+UN 1570 Brucine
+UN 1571 Barium azide, wetted with not less than 50 percent water, by mass
+UN 1572 Cacodylic acid
+UN 1573 Calcium arsenate
+UN 1574 Calcium arsenate and calcium arsenite, mixtures, solid
+UN 1575 Calcium cyanide
+UN 1577 Chlorodinitrobenzenes
+UN 1578 Chloronitrobenzene, ortho, liquid or Chloronitrobenzenes meta or para, solid
+UN 1579 4-Chloro-o-toluidine hydrochloride
+UN 1580 Chloropicrin
+UN 1581 Chloropicrin and methyl bromide mixtures
+UN 1582 Chloropicrin and methyl chloride mixtures
+UN 1583 Chloropicrin mixtures, n.o.s.
+UN 1585 Copper acetoarsenite
+UN 1586 Copper arsenite
+UN 1587 Copper cyanide
+UN 1588 Cyanides, inorganic, solid, n.o.s.
+UN 1589 Cyanogen chloride, inhibited
+UN 1590 Dichloroanilines, liquid or Dichloroanilines, solid
+UN 1591 o-Dichlorobenzene
+UN 1593 Dichloromethane
+UN 1594 Diethyl sulfate
+UN 1595 Dimethyl sulfate
+UN 1596 Dinitroanilines
+UN 1597 Dinitrobenzenes, liquid or Dinitrobenzenes, solid
+UN 1598 Dinitro-o-cresol, solid or Dinitro-o-cresol, solution
+UN 1599 Dinitrophenol solutions
+UN 1600 Dinitrotoluenes, molten
+UN 1601 Disinfectants, solid, toxic, n.o.s.
+UN 1602 Dyes, liquid, toxic, n.o.s. or Dye intermediates, liquid, toxic, n.o.s.
+UN 1603 Ethyl bromoacetate
+UN 1604 Ethylenediamine
+UN 1605 Ethylene dibromide
+UN 1606 Ferric arsenate
+UN 1607 Ferric arsenite
+UN 1608 Ferrous arsenate
+UN 1611 Hexaethyl tetraphosphate, liquid or Hexaethyl tetraphosphate, solid
+UN 1612 Hexaethyl tetraphosphate and compressed gas mixtures
+UN 1613 Hydrocyanic acid, aqueous solutions or Hydrogen cyanide, aqueous solutions with not more than 20 percent hydrogen cyanide or Hydrocyanic acid, aqueous solutions with less than 5 percent hydrogen cyanide
+UN 1614 Hydrogen cyanide, stabilized with less than 3 percent water and absorbed in a porous inert material
+UN 1616 Lead acetate
+UN 1617 Lead arsenates
+UN 1618 Lead arsenites
+UN 1620 Lead cyanide
+UN 1621 London purple
+UN 1622 Magnesium arsenate
+UN 1623 Mercuric arsenate
+UN 1624 Mercuric chloride
+UN 1625 Mercuric nitrate
+UN 1626 Mercuric potassium cyanide
+UN 1627 Mercurous nitrate
+UN 1629 Mercury acetate
+UN 1630 Mercury ammonium chloride
+UN 1631 Mercury benzoate
+UN 1634 Mercury bromides
+UN 1636 Mercury cyanide
+UN 1637 Mercury gluconate
+UN 1638 Mercury iodide, solution or Mercury iodide, solid
+UN 1639 Mercury nucleate
+UN 1640 Mercury oleate
+UN 1641 Mercury oxide
+UN 1642 Mercury oxycyanide, desensitized
+UN 1643 Mercury potassium iodide
+UN 1644 Mercury salicylate
+UN 1645 Mercury sulfates
+UN 1646 Mercury thiocyanate
+UN 1647 Methyl bromide and ethylene dibromide mixtures, liquid
+UN 1648 Acetonitrile
+UN 1649 Motor fuel anti-knock mixtures
+UN 1650 beta-Naphthylamine
+UN 1651 Naphthylthiourea
+UN 1652 Naphthylurea
+UN 1653 Nickel cyanide
+UN 1654 Nicotine
+UN 1655 Nicotine compounds, solid, n.o.s. or Nicotine preparations, solid, n.o.s.
+UN 1656 Nicotine hydrochloride or Nicotine hydrochloride solution
+UN 1657 Nicotine salicylate
+UN 1658 Nicotine sulfate, solid or Nicotine sulfate, solution
+UN 1659 Nicotine tartrate
+UN 1660 Nitric oxide, compressed
+UN 1661 Nitroanilines (o-; m-; p-;)
+UN 1662 Nitrobenzene
+UN 1663 Nitrophenols (o-; m-; p-;)
+UN 1664 Nitrotoluenes, liquid (o-; m-; p-;) or Nitrotoluenes, solid (o-; m-; p-;)
+UN 1665 Nitroxylenes (o-; m-; p-;)
+UN 1669 Pentachloroethane
+UN 1670 Perchloromethyl mercaptan
+UN 1671 Phenol, solid
+UN 1672 Phenylcarbylamine chloride
+UN 1673 Phenylenediamines (o-; m-; p-;)
+UN 1674 Phenylmercuric acetate
+UN 1677 Potassium arsenate
+UN 1678 Potassium arsenite
+UN 1679 Potassium cuprocyanide
+UN 1680 Potassium cyanide
+UN 1683 Silver arsenite
+UN 1684 Silver cyanide
+UN 1685 Sodium arsenate
+UN 1686 Sodium arsenite, aqueous solutions
+UN 1687 Sodium azide
+UN 1688 Sodium cacodylate
+UN 1689 Sodium cyanide
+UN 1690 Sodium fluoride
+UN 1691 Strontium arsenite
+UN 1692 Strychnine or Strychnine salts
+UN 1693 Tear gas substances, liquid, n.o.s. or Tear gas substances, solid, n.o.s.
+UN 1694 Bromobenzyl cyanides, liquid or Bromobenzyl cyanides, solid
+UN 1695 Chloroacetone, stabilized
+UN 1697 Chloroacetophenone (CN), liquid or Chloroacetophenone (CN), solid
+UN 1698 Diphenylaminechloroarsine
+UN 1699 Diphenylchloroarsine, liquid or Diphenylchloroarsine, solid
+UN 1700 Tear gas candles
+UN 1701 Xylyl bromide, liquid
+UN 1702 1,1,2,2-Tetrachloroethane
+UN 1704 Tetraethyl dithiopyrophosphate
+UN 1707 Thallium compounds, n.o.s.
+UN 1708 Toluidines, liquid
+UN 1709 2,4-Toluylenediamine, solid (2,4-Toluenediamine)
+UN 1710 Trichloroethylene
+UN 1711 Xylidines, liquid
+UN 1712 Zinc arsenate or Zinc arsenite or Zinc arsenate and zinc arsenite mixtures
+UN 1713 Zinc cyanide
+UN 1714 Zinc phosphide
+UN 1715 Acetic anhydride
+UN 1716 Acetyl bromide
+UN 1717 Acetyl chloride
+UN 1718 Butyl acid phosphate
+UN 1719 Caustic alkali liquid, n.o.s.
+UN 1722 Allyl chloroformate
+UN 1723 Allyl iodide
+UN 1724 Allyltrichlorosilane, stabilized
+UN 1725 Aluminum bromide, anhydrous
+UN 1726 Aluminum chloride, anhydrous
+UN 1727 Ammonium hydrogendifluoride, solid
+UN 1728 Amyltrichlorosilane
+UN 1729 Anisoyl chloride
+UN 1730 Antimony pentachloride, liquid
+UN 1731 Antimony pentachloride, solution
+UN 1732 Antimony pentafluoride
+UN 1733 Antimony trichloride
+UN 1736 Benzoyl chloride
+UN 1737 Benzyl bromide
+UN 1738 Benzyl chloride or Benzyl chloride unstabilized
+UN 1739 Benzyl chloroformate
+UN 1740 Hydrogen difluorides, n.o.s. solid
+UN 1741 Boron trichloride
+UN 1742 Boron trifluoride acetic acid complex
+UN 1743 Boron trifluoride propionic acid complex
+UN 1744 Bromine or Bromine solutions
+UN 1745 Bromine pentafluoride
+UN 1746 Bromine trifluoride
+UN 1747 Butyltrichlorosilane
+UN 1748 Calcium hypochlorite, dry 
+UN 1748 Calcium hypochlorite mixtures dry with more than 39 percent available chlorine (8.8 percent available oxygen)
+UN 1749 Chlorine trifluoride
+UN 1750 Chloroacetic acid, solution
+UN 1751 Chloroacetic acid, solid
+UN 1752 Chloroacetyl chloride
+UN 1753 Chlorophenyltrichlorosilane
+UN 1754 Chlorosulfonic acid (with or without sulfur trioxide)
+UN 1755 Chromic acid solution
+UN 1756 Chromic fluoride, solid
+UN 1757 Chromic fluoride, solution
+UN 1758 Chromium oxychloride
+UN 1759 Corrosive solids, n.o.s.
+UN 1760 Corrosive liquids, n.o.s.
+UN 1761 Cupriethylenediamine solution
+UN 1762 Cyclohexenyltrichlorosilane
+UN 1763 Cyclohexyltrichlorosilane
+UN 1764 Dichloroacetic acid
+UN 1765 Dichloroacetyl chloride
+UN 1766 Dichlorophenyltrichlorosilane
+UN 1767 Diethyldichlorosilane
+UN 1768 Difluorophosphoric acid, anhydrous
+UN 1769 Diphenyldichlorosilane
+UN 1770 Diphenylmethyl bromide
+UN 1771 Dodecyltrichlorosilane
+UN 1773 Ferric chloride, anhydrous
+UN 1774 Fire extinguisher charges, corrosive liquid
+UN 1775 Fluoroboric acid
+UN 1776 Fluorophosphoric acid anhydrous
+UN 1777 Fluorosulfonic acid
+UN 1778 Fluorosilicic acid
+UN 1779 Formic acid
+UN 1780 Fumaryl chloride
+UN 1781 Hexadecyltrichlorosilane
+UN 1782 Hexafluorophosphoric acid
+UN 1783 Hexamethylenediamine solution
+UN 1784 Hexyltrichlorosilane
+UN 1786 Hydrofluoric acid and Sulfuric acid mixtures
+UN 1787 Hydriodic acid
+UN 1788 Hydrobromic acid
+UN 1789 Hydrochloric acid
+UN 1790 Hydrofluoric acid
+UN 1791 Hypochlorite solutions
+UN 1792 Iodine monochloride, solid
+UN 1793 Isopropyl acid phosphate
+UN 1794 Lead sulfate with more than 3 percent free acid
+UN 1796 Nitrating acid mixtures, with more than 50 percent nitric acid
+UN 1796 Nitrating acid mixtures, with not more than 50 percent nitric acid
+UN 1798 Nitrohydrochloric acid
+UN 1799 Nonyltrichlorosilane
+UN 1800 Octadecyltrichlorosilane
+UN 1801 Octyltrichlorosilane
+UN 1802 Perchloric acid with not more than 50 percent acid by mass
+UN 1803 Phenolsulfonic acid, liquid
+UN 1804 Phenyltrichlorosilane
+UN 1805 Phosphoric acid
+UN 1806 Phosphorus pentachloride
+UN 1807 Phosphorus pentoxide
+UN 1808 Phosphorus tribromide
+UN 1809 Phosphorus trichloride
+UN 1810 Phosphorus oxychloride
+UN 1811 Potassium hydrogendifluoride, solid
+UN 1811 Potassium hydrogendifluoride, solution
+UN 1812 Potassium fluoride
+UN 1813 Potassium hydroxide, solid
+UN 1814 Potassium hydroxide, solution
+UN 1815 Propionyl chloride
+UN 1816 Propyltrichlorosilane
+UN 1817 Pyrosulfuryl chloride
+UN 1818 Silicon tetrachloride
+UN 1819 Sodium aluminate, solution
+UN 1823 Sodium hydroxide, solid
+UN 1824 Sodium hydroxide solution
+UN 1825 Sodium monoxide
+UN 1826 Nitrating acid mixtures, spent with more than 50 percent nitric acid
+UN 1826 Nitrating acid mixtures, spent with not more than 50 percent nitric acid
+UN 1827 Stannic chloride, anhydrous
+UN 1828 Sulfur chlorides
+UN 1829 Sulfur trioxide, stabilized
+UN 1830 Sulfuric acid with more than 51 percent acid
+UN 1831 Sulfuric acid, fuming with 30 percent more free sulfur trioxide
+UN 1831 Sulfuric acid, fuming with less than 30 percent free sulfur trioxide
+UN 1832 Sulfuric acid, spent
+UN 1833 Sulfurous acid
+UN 1834 Sulfuryl chloride
+UN 1835 Tetramethylammonium hydroxide
+UN 1836 Thionyl chloride
+UN 1837 Thiophosphoryl chloride
+UN 1838 Titanium tetrachloride
+UN 1839 Trichloroacetic acid
+UN 1840 Zinc chloride, solution
+UN 1841 Acetaldehyde ammonia
+UN 1843 Ammonium dinitro-o-cresolate
+UN 1845 Carbon dioxide, solid, also called Dry ice
+UN 1846 Carbon tetrachloride
+UN 1847 Potassium sulfide, hydrated with not less than 30 percent water of crystallization
+UN 1848 Propionic acid
+UN 1849 Sodium sulfide, hydrated with not less than 30 percent water
+UN 1851 Medicine, liquid, toxic, n.o.s.
+UN 1854 Barium alloys, pyrophoric
+UN 1855 Calcium, pyrophoric
+UN 1855 Calcium alloys, pyrophoric
+UN 1856 Rags, oily
+UN 1857 Textile waste, wet
+Un 1858 Hexafluoropropylene
+UN 1858 Hexafluoropropylene, compressed
+UN 1858 Refrigerant gas R 1216
+UN 1859 Silicon tetrafluoride, compressed
+UN 1860 Vinyl fluoride, inhibited
+UN 1862 Ethyl crotonate
+UN 1863 Fuel, aviation, turbine engine
+UN 1865 n-Propyl nitrate
+UN 1866 Resin solution, flammable
+UN 1868 Decaborane
+UN 1869 Magnesium
+UN 1869 Magnesium alloys with more than 50 percent magnesium in pellets, turnings, or ribbons
+UN 1870 Potassium borohydride
+UN 1871 Titanium hydride
+UN 1872 Lead dioxide
+UN 1873 Perchloric acid with more than 50 percent but not more than 72 percent acid, by mass
+UN 1884 Barium oxide
+UN 1885 Benzidine
+UN 1886 Benzylidene chloride
+UN 1887 Bromochloromethane
+UN 1888 Chloroform
+UN 1889 Cyanogen bromide
+UN 1891 Ethyl bromide
+UN 1892 Ethyldichloroarsine
+UN 1894 Phenylmercuric hydroxide
+UN 1895 Phenylmercuric nitrate
+UN 1897 Tetrachloroethylene
+UN 1898 Acetyl iodide
+UN 1902 Diisooctyl acid phosphate
+UN 1903 Disinfectants, liquid, corrosive, n.o.s.
+UN 1905 Selenic Acid
+UN 1906 Sludge Acid
+UN 1907 Soda lime with more than 4 percent sodium hydroxide
+UN 1908 Chlorite solution
+UN 1910 Calcium oxide
+UN 1911 Diborane, compressed
+UN 1912 Methyl chloride and methylene chloride mixtures
+UN 1913 Neon, refrigerated liquid (cryogenic liquid)
+UN 1914 Butyl propionates
+UN 1915 Cyclohexanone
+UN 1916 2,2'-Dichlorodiethyl ether
+UN 1917 Ethyl acrylate, inhibited
+UN 1918 Isopropylbenzene
+UN 1919 Methyl acrylate, inhibited
+UN 1920 Nonanes
+UN 1921 Propyleneimine, inhibited
+UN 1922 Pyrrolidine
+UN 1923 Calcium dithionite
+UN 1923 Calcium hydrosulfite
+UN 1928 Methyl magnesium bromide, in ethyl ether
+UN 1929 Potassium dithionite
+UN 1929 Potassium hydrosulfite
+UN 1931 Zinc dithionite
+UN 1931 Zinc hydrosulfite
+UN 1932 Zirconium scrap
+UN 1935 Cyanide solutions, n.o.s.
+UN 1938 Bromoacetic acid, solution
+UN 1938 Bromoacetic acid, solid
+UN 1939 Phosphorus oxybromide
+UN 1940 Thioglycolic acid
+UN 1941 Dibromodifluoromethane, R12B2
+UN 1942 Ammonium nitrate, with not more than 0.2 percent of combustible substances
+UN 1944 Matches, safety
+UN 1945 Matches, wax, Vesta
+UN 1950 Aerosols
+UN 1951 Argon, refrigerated liquid (cryogenic liquid)
+UN 1952 Ethylene oxide and carbon dioxide mixtures with not more than 9 percent ethylene oxide
+UN 1953 Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone A
+UN 1953 Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone B
+UN 1953 Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone C
+UN 1953 Compressed gas, toxic, flammable, n.o.s. Inhalation Hazard Zone D
+UN 1954 Compressed gas, flammable, n.o.s.
+UN 1955 Compressed gas, toxic, n.o.s. Inhalation Hazard Zone A
+UN 1955 Compressed gas, toxic, n.o.s. Inhalation Hazard Zone B
+UN 1955 Compressed gas, toxic, n.o.s. Inhalation Hazard Zone C
+UN 1955 Compressed gas, toxic, n.o.s. Inhalation Hazard Zone D
+UN 1956 Compressed gas, n.o.s.
+UN 1957 Deuterium, compressed
+UN 1958 1,2-dichloro-1,1,2,2-tetrafluoroethane
+UN 1958 Refrigerant gas R 114
+UN 1959 1,1-Difluoroethylene
+UN 1959 Refrigerant gas R 1132a
+UN 1961 Ethane, refrigerated liquid
+UN 1962 Ethylene, compressed
+UN 1963 Helium, refrigerated liquid (cryogenic liquid)
+UN 1964 Hydrocarbon gas mixture, compressed, n.o.s.
+UN 1965 Hydrocarbon gas mixtures, liquefied, n.o.s.
+UN 1966 Liquid hydrogen, refrigerated liquid (cryogenic liquid)
+UN 1967 Insecticide gases, toxic, n.o.s.
+UN 1968 Insecticide gases, n.o.s.
+UN 1969 Isobutane see also Petroleum gases, liquified
+UN 1970 Krypton, refrigerated liquid (cryogenic liquid)
+UN 1971 Methane
+UN 1971 Methane, compressed
+UN 1971 Natural gas, compressed
+UN 1972 Methane, refrigerated liquid (cryogenic liquid)
+UN 1972 Natural gas, refrigerated liquid (cryogenic liquid)
+UN 1973 Chlorodifluoromethane and chloropentafluoroethane mixture or Refrigerant gas R 502 with fixed boiling point, with approximately 49 percent chlorodifluoromethane
+UN 1974 Chlorodifluorobromomethane or Refrigerant gas R 12B1
+UN 1975 Nitric oxide and dinitrogen tetroxide mixtures or Nitric oxide and nitrogen dioxide mixtures
+UN 1976 Octafluorocyclobutane, or Refrigerant gas RC 318
+UN 1977 Nitrogen, refrigerated liquid cryogenic liquid
+UN 1978 Propane see also Petroleum gases, liquefied
+UN 1982 Tetrafluoromethane, compressed or Refrigerant gas R 14
+UN 1983 1-Chloro-2,2,2-trifluoroethane or Refrigerant gas R133a
+UN 1984 Trifluoromethane or Refrigerant gas R 23
+UN 1986 Alcohols, flammable, toxic, n.o.s.
+UN 1987 Alcohols, (Ethanol), n.o.s.
+UN 1988 Aldehydes, flammable, toxic, n.o.s.
+UN 1989 Aldehydes, n.o.s.
+UN 1990 Benzaldehyde
+UN 1991 Chloroprene, inhibited
+UN 1992 Flammable liquids, toxic, n.o.s.
+UN 1993 Flammable liquids, n.o.s.
+UN 1994 Iron pentacarbonyl
+UN 1995 Propane
+UN 1999 Tars, liquid including road asphalt and oils, bitumen and cut backs
+UN 2000 Celluloid, in block, rods, rolls, sheets, tubes, etc., except scrap
+UN 2001 Cobalt naphthenates, powder
+UN 2002 Celluloid, scrape
+UN 2004 Magnesium diamide
+UN 2006 Plastics, nitrocellulose-based, self-heating, n.o.s.
+UN 2008 Zirconium powder, dry
+UN 2009 Zirconium, dry, finished sheets, strip or coiled wire
+UN 2010 Magnesium hydride
+UN 2011 Magnesium phosphide
+UN 2012 Potassium phosphide
+UN 2013 Strontium phosphide
+UN 2014 Hydrogen peroxide, aqueous solutions with more than 20 percent but not more than 60 percent hydrogen peroxide (stabilized as necessary)
+UN 2015 Hydrogen peroxide, stabilized or Hydrogen peroxide aqueous solutions, stabilized with more than 60 percent hydrogen peroxide
+UN 2016 Ammunition, toxic, non-explosive, without burster or expelling charge, non-fuzed
+UN 2017 Ammunition, tear-producing, non-explosive, without burster or expelling charge, non-fuzed
+UN 2018 Chloroanilines, solid
+UN 2019 Chloroanilines, liquid
+UN 2020 Chlorophenols, solid
+UN 2021 Chlorophenols, liquid
+UN 2022 Cresylic acid
+UN 2023 Epichlorohydrin
+UN 2024 Mercury compounds, liquid, n.o.s.
+UN 2025 Mercury compounds, solid, n.o.s.
+UN 2026 Phenylmercuric compounds, n.o.s.
+UN 2027 Sodium arsenite, solid
+UN 2028 Bombs, smoke, non-explosive, with corrosive liquid, without initiating device
+UN 2029 Hydrazine, anhydrous
+UN 2030 Hydrazine aqueous solution, with more than 37 percent hydrazine, by mass
+UN 2031 Nitric acid other than red fuming, with more than 70 percent nitric acid or Nitric acid other than red fuming, with not more than 70 percent nitric acid
+UN 2032 Nitric acid, red fuming
+UN 2033 Potassium monoxide
+UN 2034 Hydrogen and Methane mixtures, compressed
+UN 2035 1,1,1-Trifluoroethane, compressed or Refrigerant gas R 143a
+UN 2036 Xenon, compressed
+UN 2037 Gas cartridges (flammable) without a release device, non-refillable or Receptacles, small, containing gas (gas cartridges) flammable or nonflammable, without release device, not refillable and not exceeding 1 L capacity
+UN 2038 Dinitrotoluenes, liquid or Dinitrotoluenes, solid
+UN 2044 2,2-Dimethylpropane
+UN 2045 Isobutyraldehyde or Isobutyl aldehyde
+UN 2046 Cymenes
+UN 2047 Dichloropropenes
+UN 2048 Dicyclopentadiene
+UN 2049 Diethylbenzene
+UN 2050 Diisobutylene, isomeric compounds
+UN 2051 2-Dimethylaminoethanol
+UN 2052 Dipentene
+UN 2053 Methyl isobutyl carbinol
+UN 2054 Morpholine
+UN 2055 Styrene monomer, inhibited
+UN 2056 Tetrahydrofuran
+UN 2057 Tripropylene
+UN 2058 Valeraldehyde
+UN 2059 Nitrocellulose, solution, flammable with not less than 12.6 percent nitrogen, by mass, and not more than 55 percent nitrocellulose
+UN 2067 Ammonium nitrate fertilizers; uniform non-segregating mixtures of ammonium nitrate with added matter which is inorganic and chemically inert towards ammonium nitrate, with not less than 90 percent ammonium nitrate and not more than 0.2 percent combustible
+UN 2071 Ammonium nitrate fertilizers: uniform non-segregating mixtures of nitrogen/phosphate or nitrogen/potash types or complete fertilizers of nitrogen/phosphate/potash type, with not more than 70 percent ammonium nitrate and not more than 0.4 percent total combustible/organic material calculated as carbon or with not more than 45 percent ammonium nitrate and unrestricted combustible material
+UN 2073 Ammonia solution, relative density less than 0.880 at 15 °C in water, with more than 35 percent but not more than 50 percent ammonia
+UN 2074 Acrylamide, Solid
+UN 2075 Chloral, anhydrous, inhibited
+UN 2076 Cresols
+UN 2077 alpha-Naphthylamine
+UN 2078 Toluene diisocyanate
+UN 2079 Diethylenetriamine
+UN 2186 Hydrogen chloride, refrigerated liquid
+UN 2187 Carbon dioxide, refrigerated liquid
+UN 2188 Arsine
+UN 2189 Dichlorosilane
+UN 2190 Oxygen difluoride, compressed
+UN 2191 Sulfuryl fluoride
+UN 2192 Germane
+UN 2193 Hexafluoroethane, compressed or Refrigerant gas R 116
+UN 2194 Selenium hexafluoride
+UN 2195 Tellurium hexafluoride
+UN 2196 Tungsten hexafluoride
+UN 2197 Hydrogen iodide, anhydrous
+UN 2198 Phosphorus pentafluoride, compressed
+UN 2199 Phosphine
+UN 2200 Propadiene, inhibited
+UN 2201 Nitrous oxide, refrigerated liquid
+UN 2202 Hydrogen selenide, anhydrous
+UN 2203 Silane, compressed
+UN 2204 Carbonyl sulfide
+UN 2205 Adiponitrile
+UN 2206 Isocyanates, toxic, n.o.s. or Isocyanate solutions, toxic, n.o.s. flashpoint more than 61 °C and boiling point less than 300 °C
+UN 2208 Calcium hypochlorite mixtures, dry, with more than 10 percent but not more than 39 percent available chlorine
+UN 2209 Formaldehyde, solutions, with not less than 25 percent formaldehyde
+UN 2210 Maneb or Maneb preparations with not less than 60 percent maneb
+UN 2211 Polymeric beads, expandable, evolving flammable vapor
+UN 2212 Blue asbestos (Crocidolite) or Brown asbestos (amosite, mysorite)
+UN 2213 Paraformaldehyde
+UN 2214 Phthalic anhydride with more than .05 percent maleic anhydride
+UN 2215 Maleic anhydride
+UN 2216 Fish meal, stabilized or Fish scrap, stabilized
+UN 2217 Seed cake with not more than 1.5 percent oil and not more than 11 percent moisture
+UN 2218 Acrylic acid, inhibited
+UN 2219 Allyl glycidyl ether
+UN 2222 Anisole
+UN 2224 Benzonitrile
+UN 2225 Benzenesulfonyl chloride
+UN 2226 Benzotrichloride
+UN 2227 n-Butyl methacrylate, inhibited
+UN 2232 2-Chloroethanal
+UN 2233 Chloroanisidines
+UN 2234 Chlorobenzotrifluorides
+UN 2235 Chlorobenzyl chlorides, liquid
+UN 2236 3-Chloro-4-methylphenyl isocyanate
+UN 2237 Chloronitroanilines
+UN 2238 Chlorotoluenes
+UN 2239 Chlorotoluidines, solid
+UN 2240 Chromosulfuric acid
+UN 2241 Cycloheptane
+UN 2242 Cycloheptene
+UN 2243 Cyclohexyl acetate
+UN 2244 Cyclopentanol
+UN 2245 Cyclopentanone
+UN 2246 Cyclopentene
+UN 2247 n-Decane
+UN 2248 Di-n-butylamine
+UN 2249 Dichlorodimethyl ether, symmetrical
+UN 2250 Dichlorophenyl isocyanates
+UN 2251 Bicyclo [2,2,1] hepta-2, 5-diene, inhibited or 2,5-Norbornadiene, inhibited
+UN 2252 1,2-Dimethoxyethane
+UN 2253 N,N-Dimethylaniline
+UN 2254 Matches, Fusee
+UN 2256 Cyclohexene
+UN 2257 Potassium
+UN 2258 1,2-Propylenediamine
+UN 2259 Triethylenetetramine
+UN 2260 Tripropylamine
+UN 2261 Xylenols
+UN 2262 Dimethylcarbamoyl chloride
+UN 2263 Dimethylcyclohexanes
+UN 2264 Dimethylcyclohexylamine
+UN 2265 N,N-Dimethylformamide
+UN 2266 Dimethyl-N-propylamine
+UN 2267 Dimethyl thiophosphoryl chloride
+UN 2269 3,3'-Iminodipropylamine
+UN 2270 Ethylamine, aqueous solution with not less than 50 percent but not more than 70 percent ethylamine
+UN 2271 Ethyl amyl ketone
+UN 2272 N-Ethylaniline
+UN 2273 2-Ethylaniline
+UN 2274 N-Ethyl-N-benzylaniline
+UN 2275 2-Ethylbutanol
+UN 2276 2-Ethylhexylamine
+UN 2277 Ethyl methacrylate
+UN 2278 n-Heptane
+UN 2279 Hexachlorobutadiene
+UN 2280 Hexamethylenediamine, solid
+UN 2281 Hexamethylene diisocyanate
+UN 2282 Hexanols
+UN 2283 Isobutyl methacrylate, inhibited
+UN 2284 Isobutyronitrile
+UN 2285 Isocyanatobenzotrifluorides
+UN 2286 Pentamethylheptane
+UN 2287 Isoheptenes
+UN 2288 Isohexenes
+UN 2289 Isophoronediamine
+UN 2290 Isophorone diisocyanate
+UN 2291 Lead compounds, soluble, n.o.s.
+UN 2293 4-Methoxy-4-methylpentan-2-one
+UN 2294 N-Methylaniline
+UN 2295 Methyl chloroacetate
+UN 2296 Methylcyclohexane
+UN 2297 Methylcyclohexanone
+UN 2298 Methylcyclopentane
+UN 2299 Methyl dichloroacetate
+UN 2300 2-Methyl-5-ethylpyridine
+UN 2301 2-Methylfuran
+UN 2302 5-Methylhexan-2-one
+UN 2303 Isopropenylbenzene
+UN 2304 Naphthalene, molten
+UN 2305 Nitrobenzenesulfonic acid
+UN 2306 Nitrobenzotrifluorides, liquid
+UN 2307 3-Nitro-4-chlorobenzotrifluoride
+UN 2308 Nitrosylsulfuric acid
+UN 2309 Octadiene
+UN 2310 Pentane-2,4-dione
+UN 2311 Phenetidines
+UN 2312 Phenol, molten
+UN 2313 Picolines
+UN 2315 Polychlorinated biphenyls, liquid
+UN 2316 Sodium cuprocyanide, solid
+UN 2317 Sodium cuprocyanide, solution
+UN 2318 Sodium hydrosulfide, with less than 25 percent water of crystallization
+UN 2319 Terpene hydrocarbons, n.o.s.
+UN 2320 Tetraethylenepentamine
+UN 2321 Trichlorobenzenes, liquid
+UN 2322 Trichlorobutene
+UN 2323 Triethyl phosphite
+UN 2324 Triisobutylene
+UN 2325 1,3,5-Trimethylbenzene (Mesitylene)
+UN 2326 Trimethylcyclohexylamine
+UN 2327 Trimethylhexamethylenediamine
+UN 2328 Trimethylhexamethylene diisocyanate
+UN 2329 Trimethyl phosphite
+UN 2330 Undecane
+UN 2331 Zinc chloride, anhydrous
+UN 2332 Acetaldehyde oxime
+UN 2333 Allyl acetate
+UN 2334 Allylamine
+UN 2335 Allyl ethyl ether
+UN 2336 Allyl formate
+UN 2337 Phenyl mercaptan
+UN 2338 Benzotrifluoride
+UN 2339 2-Bromobutane
+UN 2340 2-Bromoethyl ethyl ether
+UN 2341 1-Bromo-3-methylbutane
+UN 2342 Bromomethylpropanes
+UN 2343 2-Bromopentane
+UN 2344 Bromopropanes
+UN 2345 3-Bromopropyne
+UN 2346 Butanedione
+UN 2347 Butyl mercaptans
+UN 2348 Butyl acrylates, inhibited
+UN 2350 Butyl methyl ether
+UN 2351 Butyl nitrites
+UN 2352 Butyl vinyl ether, inhibited
+UN 2353 Butyryl chloride
+UN 2354 Chloromethyl ethyl ether
+UN 2356 2-Chloropropane
+UN 2357 Cyclohexylamine
+UN 2358 Cyclooctatetraene
+UN 2359 Diallylamine
+UN 2360 Diallylether
+UN 2361 Diisobutylamine
+UN 2362 1,1-Dichloroethane
+UN 2363 Ethyl mercaptan
+UN 2364 n-Propylbenzene
+UN 2366 Diethyl carbonate
+UN 2367 alpha-Methylvaleraldehyde
+UN 2368 alpha-Pinene
+UN 2370 1-Hexene
+UN 2371 Isopentenes
+UN 2372 1,2-Di-(dimethylamino)ethane
+UN 2373 Diethoxymethane
+UN 2374 3,3-Diethoxypropene
+UN 2375 Diethyl sulfide
+UN 2376 2,3-Dihydropyran
+UN 2377 1,1-Dimethoxyethane
+UN 2378 2-Dimethylaminoacetonitrile
+UN 2379 1,3-Dimethylbutylamine
+UN 2380 Dimethyldiethoxysilane
+UN 2381 Dimethyl disulfide
+UN 2382 Dimethylhydrazine, symmetrical
+UN 2383 Dipropylamine
+UN 2384 Di-n-propyl ether
+UN 2385 Ethyl isobutyrate
+UN 2386 1-Ethylpiperidine
+UN 2387 Fluorobenzene
+UN 2388 Fluorotoluenes
+UN 2389 Furan
+UN 2390 2-Iodobutane
+UN 2391 Iodomethylpropanes
+UN 2392 Iodopropanes
+UN 2393 Isobutyl formate
+UN 2394 Isobutyl propionate
+UN 2395 Isobutyryl chloride
+UN 2396 Methacrylaldehyde, inhibited
+UN 2397 3-Methylbutan-2-one
+UN 2398 Methyl tert-butyl ether
+UN 2399 1-Methylpiperidine
+UN 2400 Methyl isovalerate
+UN 2401 Piperidine
+UN 2402 Propanethiols
+UN 2403 Isopropenyl acetate
+UN 2404 Propionitrile
+UN 2405 Isopropyl butyrate
+UN 2406 Isopropyl isobutyrate
+UN 2407 Isopropyl chloroformate
+UN 2409 Isopropyl propionate
+UN 2410 1,2,3,6-Tetrahydropyridine
+UN 2411 Butyronitrile
+UN 2412 Tetrahydrothiophene
+UN 2413 Tetrapropylorthotitanate
+UN 2414 Thiophene
+UN 2416 Trimethyl borate
+UN 2417 Carbonyl fluoride, compressed
+UN 2418 Sulfur tetrafluoride
+UN 2419 Bromotrifluoroethylene
+UN 2420 Hexafluoroacetone
+UN 2421 Nitrogen trioxide
+UN 2422 Octafluorobut-2-ene or Refrigerant gas R 1318
+UN 2424 Octafluoropropane or Refrigerant gas R 218
+UN 2426 Ammonium nitrate, liquid (hot concentrated solution)
+UN 2427 Potassium chlorate, aqueous solution
+UN 2428 Sodium chlorate, aqueous solution
+UN 2429 Calcium chlorate aqueous solution
+UN 2430 Alkylphenols, solid, n.o.s. (including C2-C12 homologues)
+UN 2431 Anisidines
+UN 2432 N,N-Diethylaniline
+UN 2433 Chloronitrotoluenes liquid or Chloronitrotoluenes solid
+UN 2434 Dibenzyldichlorosilane
+UN 2435 Ethylphenyldichlorosilane
+UN 2436 Thioacetic acid
+UN 2437 Methylphenyldichlorosilane
+UN 2438 Trimethylacetyl chloride
+UN 2439 Sodium hydrogendifluoride, solid or Sodium hydrogendifluoride, solution
+UN 2440 Stannic chloride, pentahydrate
+UN 2441 Titanium trichloride, pyrophoric or Titanium trichloride mixtures, pyrophoric
+UN 2442 Trichloroacetyl chloride
+UN 2443 Vanadium oxytrichloride
+UN 2444 Vanadium tetrachloride
+UN 2446 Nitrocresols
+UN 2447 Phosphorus white, molten
+UN 2448 Sulfur, molten
+UN 2451 Nitrogen trifluoride, compressed
+UN 2452 Ethylacetylene, inhibited
+UN 2453 Ethyl fluoride or Refrigerant gas R 161
+UN 2454 Methyl fluoride, or Refrigerant gas R 41
+UN 2455 Methyl nitrite
+UN 2456 2-Chloropropene
+UN 2457 2,3-Dimethylbutane
+UN 2458 Hexadienes
+UN 2459 2-Methyl-1-butene
+UN 2460 2-Methyl-2-butene
+UN 2461 Methylpentadienes
+UN 2463 Aluminum hydride
+UN 2464 Beryllium nitrate
+UN 2465 Dichloroisocyanuric acid, dry or Dichloroisocyanuric acid salts
+UN 2466 Potassium superoxide
+UN 2468 Trichloroisocyanuric acid, dry
+UN 2469 Zinc bromate
+UN 2470 Phenylacetonitrile, liquid
+UN 2471 Osmium tetroxide
+UN 2473 Sodium arsanilate
+UN 2474 Thiophosgene
+UN 2475 Vanadium trichloride
+UN 2477 Methyl isothiocyanate
+UN 2478 Isocyanates, flammable, toxic, n.o.s. or Isocyanate solutions, flammable, toxic, n.o.s. flashpoint less than 23 °C
+UN 2480 Methyl isocyanate
+UN 2481 Ethyl isocyanate
+UN 2482 n-Propyl isocyanate
+UN 2483 Isopropyl isocyanate
+UN 2484 tert-Butyl isocyanate
+UN 2485 n-Butyl isocyanate
+UN 2486 Isobutyl isocyanate
+UN 2487 Phenyl isocyanate
+UN 2488 Cyclohexyl isocyanate
+UN 2490 Dichlorodiisopropyl ether
+UN 2491 Ethanolamine or Ethanolamine solutions
+UN 2493 Hexamethyleneimine
+UN 2495 Iodine pentafluoride
+UN 2496 Propionic anhydride
+UN 2498 1,2,3,6-Tetrahydrobenzaldehyde
+UN 2501 Tris(1-aziridinyl)phosphine oxide, solution
+UN 2502 Valeryl chloride
+UN 2503 Zirconium tetrachloride
+UN 2504 Tetrabromoethane
+UN 2505 Ammonium fluoride
+UN 2506 Ammonium hydrogen sulfate
+UN 2507 Chloroplatinic acid, solid
+UN 2508 Molybdenum pentachloride
+UN 2509 Potassium hydrogen sulfate
+UN 2511 2-Chloropropionic acid
+UN 2512 Aminophenols (o-; m-; p-)
+UN 2513 Bromoacetyl bromide
+UN 2514 Bromobenzene
+UN 2515 Bromoform
+UN 2516 Carbon tetrabromide
+UN 2517 1-Chloro-1,1-difluoroethane or Refrigerant gas R 142b
+UN 2518 1,5,9-Cyclododecatriene
+UN 2520 Cyclooctadienes
+UN 2521 Diketene, inhibited
+UN 2522 2-Dimethylaminoethyl methacrylate
+UN 2524 Ethyl orthoformate
+UN 2525 Ethyl oxalate
+UN 2526 Furfurylamine
+UN 2527 Isobutyl acrylate, inhibited
+UN 2528 Isobutyl isobutyrate
+UN 2529 Isobutyric acid
+UN 2531 Methacrylic acid, inhibited
+UN 2533 Methyl trichloroacetate
+UN 2534 Methylchlorosilane
+UN 2535 4-Methylmorpholine or n-methylmorpholine
+UN 2536 Methyltetrahydrofuran
+UN 2538 Nitronaphthalene
+UN 2541 Terpinolene
+UN 2542 Tributylamine
+UN 2545 Hafnium powder, dry
+UN 2546 Titanium powder, dry
+UN 2547 Sodium superoxide
+UN 2548 Chlorine pentafluoride
+UN 2552 Hexafluoroacetone hydrate
+UN 2554 Methyl allyl chloride
+UN 2555 Nitrocellulose with water with not less than 25 percent water, by mass
+UN 2556 Nitrocellulose, with alcohol with not less than 25 percent alcohol, by mass, and with not more than 12.6 percent nitrogen, by dry mass
+UN 2557 Nitrocellulose, with not more than 12.6 percent nitrogen, by dry mass, or Nitrocellulose mixture with pigment or Nitrocellulose mixture with plasticizer or Nitrocellulose mixture with pigment and plasticizer
+UN 2558 Epibromohydrin
+UN 2560 2-Methylpentan-2-ol
+UN 2561 3-Methyl-1-butene
+UN 2564 Trichloroacetic acid, solution
+UN 2565 Dicyclohexylamine
+UN 2567 Sodium pentachlorophenate
+UN 2570 Cadmium compounds
+UN 2571 Alkylsulfuric acids
+UN 2572 Phenylhydrazine
+UN 2573 Thallium chlorate
+UN 2574 Tricresyl phosphate with more than 3 percent ortho isomer
+UN 2576 Phosphorus oxybromide, molten
+UN 2577 Phenylacetyl chloride
+UN 2578 Phosphorus trioxide
+UN 2579 Piperazine
+UN 2580 Aluminum bromide, solution
+UN 2581 Aluminum chloride, solution
+UN 2582 Ferric chloride, solution
+UN 2583 Alkyl sulfonic acids, solid or Aryl sulfonic acids, solid with more than 5 percent free sulfuric acid
+UN 2584 Alkyl sulfonic acids, liquid or Aryl sulfonic acids, liquid with more than 5 percent free sulfuric acid
+UN 2585 Alkyl sulfonic acids, solid or Aryl sulfonic acids, solid with not more than 5 percent free sulfuric acid
+UN 2586 Alkyl sulfonic acids, liquid or Aryl sulfonic acids, liquid with not more than 5 percent free sulfuric acid
+UN 2587 Benzoquinone
+UN 2588 Pesticides, solid, toxic, not otherwise specified
+UN 2589 Vinyl chloroacetate
+UN 2590 White asbestos (chrysotile, actinolite, anthophyllite, tremolite)
+UN 2591 Xenon, refrigerated liquid (cryogenic liquids)
+UN 2599 Chlorotrifluoromethane and trifluoromethane azeotropic mixture or Refrigerant gas R 503 with approximately 60 percent chlorotrifluoromethane
+UN 2601 Cyclobutane
+UN 2602 Dichlorodifluoromethane and difluoroethane azeotropic mixture or Refrigerant gas R 500 with approximately 74 percent dichlorodifluoromethane
+UN 2603 Cycloheptatriene
+UN 2604 Boron trifluoride diethyl etherate
+UN 2605 Methoxymethyl isocyanate
+UN 2606 Methyl orthosilicate
+UN 2607 Acrolein dimer, stabilized
+UN 2608 Nitropropanes
+UN 2609 Triallyl borate
+UN 2610 Triallylamine
+UN 2611 Propylene chlorohydrin
+UN 2612 Methyl propyl ether
+UN 2614 Methallyl alcohol
+UN 2615 Ethyl propyl ether
+UN 2616 Triisopropyl borate
+UN 2617 Methylcyclohexanols, flammable
+UN 2618 Vinylanilines, inhibited
+UN 2619 Benzyldimethylamine
+UN 2620 Amyl butyrates
+UN 2621 Acetyl methyl carbinol
+UN 2622 Glycidaldehyde
+UN 2623 Firelighters, solid with flammable liquid
+UN 2624 Magnesium silicide
+UN 2626 Chloric acid aqueous solution, with not more than 10 percent chloric acid
+UN 2627 Nitrites, inorganic, n.o.s.
+UN 2628 Potassium fluoroacetate
+UN 2629 Sodium fluoroacetate
+UN 2630 Selenate or Selenite
+UN 2642 Fluoroacetic acid
+UN 2643 Methyl bromoacetate
+UN 2644 Methyl iodide
+UN 2645 Phenacyl bromide
+UN 2646 Hexachlorocyclopentadiene
+UN 2647 Malononitrile
+UN 2648 1,2-Dibromoethane-3-one
+UN 2649 1,3-Dichloroacetone
+UN 2650 1,1-Dichloro-1-nitroethane
+UN 2651 4,4'-Diaminodiphenylmethane
+UN 2653 Benzyl iodide
+UN 2655 Potassium fluorosilicate
+UN 2656 Quinoline
+UN 2657 Selenium disulfide
+UN 2659 Sodium chloroacetate
+UN 2660 Nitrotoluidines (mono)
+UN 2661 Hexachloroacetone
+UN 2664 Dibromomethane
+UN 2667 Butyltoluenes
+UN 2668 Chloroacetonitrile
+UN 2669 Chlorocresols, liquid or Chlorocresols, solid
+UN 2670 Cyanuric chloride
+UN 2671 Aminopyridines (o-; m-; p-)
+UN 2672 Ammonia solution, relative density between 0.880 and 0.957 at 15 °C in water, with more than 10 percent but not more than 35 percent ammonia
+UN 2673 2-Amino-4-chlorophenol
+UN 2674 Sodium fluorosilicate
+UN 2676 Stibine
+UN 2677 Rubidium hydroxide solution
+UN 2678 Rubidium hydroxide
+UN 2679 Lithium hydroxide solution
+UN 2680 Lithium hydroxide, monohydrate or Lithium hydroxide, solid
+UN 2681 Caesium hydroxide solution
+UN 2682 Caesium hydroxide
+UN 2683 Ammonium sulfide solution
+UN 2684 Diethylaminopropylamine
+UN 2685 N,N-Diethylethylenediamine
+UN 2686 2-Diethylaminoethanol
+UN 2687 Dicyclohexylammonium nitrate
+UN 2688 1-Chloro-3-bromopropane
+UN 2689 Glycerol alpha-monochlorohydrin
+UN 2690 N,n-Butyl imidazole
+UN 2691 Phosphorus pentabromide
+UN 2692 Boron tribromide
+UN 2693 Bisulfites, aqueous solutions, n.o.s.
+UN 2698 Tetrahydrophthalic anhydrides with more than 0.05 percent of maleic anhydride
+UN 2699 Trifluoroacetic acid
+UN 2705 1-Pentol aka (2E)-3-Methyl-2-penten-4-yn-1-ol[2]
+UN 2707 Dimethyldioxanes
+UN 2709 Butyl benzenes
+UN 2710 Dipropyl ketone
+UN 2713 Acridine
+UN 2714 Zinc resinate
+UN 2715 Aluminum resinate
+UN 2716 1,4-Butynediol
+UN 2717 Camphor, synthetic
+UN 2719 Barium bromate
+UN 2720 Chromium nitrate
+UN 2721 Copper chlorate
+UN 2722 Lithium nitrate
+UN 2723 Magnesium chlorate
+UN 2724 Manganese nitrate
+UN 2725 Nickel nitrate
+UN 2726 Nickel nitrite
+UN 2727 Thallium nitrate
+UN 2728 Zirconium nitrate
+UN 2729 Hexachlorobenzene
+UN 2730 Nitroanisole
+UN 2732 Nitrobromobenzenes liquid or Nitrobromobenzenes solid
+UN 2733 Amines, flammable, corrosive, n.o.s. or Polyamines, flammable, corrosive, n.o.s.
+UN 2734 Amines, liquid, corrosive, flammable, n.o.s. or Polyamines, liquid, corrosive, flammable, n.o.s.
+UN 2735 Amines, liquid, corrosive, n.o.s. or Polyamines, liquid, corrosive, n.o.s.
+UN 2738 N-Butylaniline
+UN 2739 Butyric anhydride
+UN 2740 n-Propyl chloroformate
+UN 2741 Barium hypochlorite with more than 22 percent available chlorine
+UN 2742 Chloroformates, toxic, corrosive, flammable, n.o.s.
+UN 2743 n-Butyl chloroformate
+UN 2744 Cyclobutyl chloroformate
+UN 2745 Chloromethyl chloroformate
+UN 2746 Phenyl chloroformate
+UN 2747 tert-Butylcyclohexylchloroformate
+UN 2748 2-Ethylhexyl chloroformate
+UN 2749 Tetramethylsilane
+UN 2750 1,3-Dichloropropan-2-ol
+UN 2751 Diethylthiophosphoryl chloride
+UN 2752 1,2-Epoxy-3-ethoxypropane
+UN 2753 N-Ethylbenzyltoluidines liquid or N-Ethylbenzyltoluidines solid
+UN 2754 N-Ethyltoluidines
+UN 2757 Carbamate pesticides, solid, toxic
+UN 2758 Carbamate pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2759 Arsenical pesticides, solid, toxic
+UN 2760 Arsenical pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2761 Organochlorine pesticides, solid, toxic
+UN 2762 Organochlorine pesticides liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2763 Triazine pesticides, solid, toxic
+UN 2764 Triazine pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2771 Thiocarbamate pesticides, solid, toxic
+UN 2772 Thiocarbamate pesticide, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2775 Copper based pesticides, solid, toxic
+UN 2776 Copper based pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2777 Mercury based pesticides, solid, toxic
+UN 2778 Mercury based pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2779 Substituted nitrophenol pesticides, solid, toxic
+UN 2780 Substituted nitrophenol pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2781 Bipyridilium pesticides, solid, toxic
+UN 2782 Bipyridilium pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2783 Organophosphorus pesticides, solid, toxic
+UN 2784 Organophosphorus pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2785 4-Thiapentanal
+UN 2786 Organotin pesticides, solid, toxic
+UN 2787 Organotin pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 2788 Organotin compounds, liquid, n.o.s.
+UN 2789 Acetic acid, glacial or Acetic acid solution, with more than 80 percent acid, by mass
+UN 2790 Acetic acid solution, not less than 50 percent but not more than 80 percent acid, by mass or Acetic acid solution, with more than 10 percent and less than 50 percent acid, by mass
+UN 2793 Ferrous metal borings or Ferrous metal shavings or Ferrous metal turnings or Ferrous metal cuttings in a form liable to self-heating
+UN 2794 Batteries, wet, filled with acid, electric storage
+UN 2795 Batteries, wet, filled with alkali, electric storage
+UN 2796 Battery fluid, acid or Sulfuric acid with not more than 51 percent acid
+UN 2797 Battery fluid, alkali
+UN 2798 Phenylphosphorus Dichloride
+UN 2799 Phenylphosphorus Thiodichloride
+UN 2800 Batteries, wet, non-spillable, electric storage
+UN 2801 Dyes, liquid, corrosive, n.o.s. or Dye intermediates, liquid, corrosive, n.o.s.
+UN 2802 Copper chloride
+UN 2803 Gallium
+UN 2805 Lithium hydride, fused solid
+UN 2806 Lithium nitride
+UN 2807 Magnetized material
+UN 2809 Mercury or Mercury contained in manufactured articles
+UN 2810 Toxic liquids, organic, n.o.s. or Toxic, liquids, organic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 2811 Toxic solid, organic, n.o.s.
+UN 2812 Sodium aluminate, solid
+UN 2813 Water-reactive solid, n.o.s.
+UN 2814 Infectious substance, affecting humans or Infectious Substance, affecting humans (Risk Group 2).
+UN 2815 N-Aminoethylpiperazine
+UN 2817 Ammonium hydrogendifluoride, solution
+UN 2818 Ammonium polysulfide, solution
+UN 2819 Amyl acid phosphate
+UN 2820 Butyric acid
+UN 2821 Phenol solutions
+UN 2822 2-Chloropyridine
+UN 2823 Crotonic acid liquid or Crotonic acid solid
+UN 2826 Ethyl chlorothioformate
+UN 2829 Caproic acid
+UN 2830 Lithium ferrosilicon
+UN 2831 1,1,1-Trichloroethane
+UN 2834 Phosphorous acid
+UN 2835 Sodium aluminum hydride
+UN 2837 Bisulfate, aqueous solution
+UN 2838 Vinyl butyrate, inhibited
+UN 2839 Aldol
+UN 2840 Butyraldoxime
+UN 2841 Di-n-amylamine
+UN 2842 Nitroethane
+UN 2844 Calcium manganese silicon
+UN 2845 Pyrophoric liquids, organic, n.o.s.
+UN 2846 Pyrophoric solids, organic, n.o.s.
+UN 2849 3-Chloropropan-1-ol
+UN 2850 Propylene tetramer
+UN 2851 Boron trifluoride dihydrate
+UN 2852 Dipicryl sulfide, wetted with not less than 10 percent water, by mass
+UN 2853 Magnesium fluorosilicate
+UN 2854 Ammonium fluorosilicate
+UN 2855 Zinc fluorosilicate
+UN 2856 Fluorosilicates, n.o.s.
+UN 2857 Refrigerating machines, containing nonflammable, nontoxic, liquefied gas or ammonia solution (UN2672)
+UN 2858 Zirconium, dry, coiled wire, finished metal sheets, strip (thinner than 254 micrometres but not thinner than 18 micrometres)
+UN 2859 Ammonium metavanadate
+UN 2861 Ammonium polyvanadate
+UN 2862 Vanadium pentoxide, nonfused form
+UN 2863 Sodium ammonium vanadate
+UN 2864 Potassium metavanadate
+UN 2865 Hydroxylamine sulfate
+UN 2869 Titanium trichloride mixtures
+UN 2870 Aluminum borohydride or Aluminum borohydride in devices
+UN 2871 Antimony powder
+UN 2872 Dibromochloropropane
+UN 2873 Dibutylaminoethanol
+UN 2874 Furfuryl alcohol
+UN 2875 Hexachlorophene
+UN 2876 Resorcinol
+UN 2878 Titanium sponge granules or Titanium sponge powders
+UN 2879 Selenium oxychloride
+UN 2880 Calcium hypochlorite, hydrated or Calcium hypochlorite, hydrated mixtures, with not less than 5.5 percent but not more than 10 percent water
+UN 2881 Metal catalyst, dry
+UN 2900 Infectious substance, affecting animals
+UN 2901 Bromine chloride
+UN 2902 Pesticides, liquid, toxic, n.o.s.
+UN 2903 Pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 2904 Chlorophenolates, liquid or Phenolates, liquid
+UN 2905 Chlorophenolates, solid or Phenolates, solid
+UN 2907 Isosorbide dinitrate mixture with not less than 60 percent lactose, mannose, starch or calcium hydrogen phosphate
+UN 2908 Radioactive material, excepted package—empty packaging
+UN 2909 Radioactive material, excepted package-articles manufactured from natural or depleted uranium or natural thorium
+UN 2910 Radioactive material, excepted package-limited quantity of material
+UN 2911 Radioactive material, excepted package-instruments or articles
+UN 2912 Radioactive material, low specific activity (LSA-I) [non fissile or fissile-excepted] Radon gas
+UN 2913 Radioactive material, surface contaminated objects (SCO-I or SCO-II) [non fissile or fissile-excepted]
+UN 2915 Radioactive material, Type A package [non-special form, non fissile or fissile-excepted]
+UN 2916 Radioactive material, Type B(U) package [non fissile or fissile-excepted]
+UN 2917 Radioactive material, Type B(M) package [non fissile or fissile-excepted]
+UN 2919 Radioactive material, transported under special arrangement, [non fissile or fissile excepted]
+UN 2920 Corrosive liquids, flammable, n.o.s.
+UN 2921 Corrosive solids, flammable, n.o.s.
+UN 2922 Corrosive liquids, toxic, n.o.s.
+UN 2923 Corrosive solids, toxic, n.o.s.
+UN 2924 Flammable liquid, corrosive, n.o.s.
+UN 2925 Flammable solids, corrosive, organic, n.o.s.
+UN 2926 Flammable solids, toxic, organic, n.o.s.
+UN 2927 Toxic liquid, corrosive, organic, n.o.s. or Toxic liquid, corrosive, organic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 2928 Toxic solid, corrosive, organic, n.o.s.
+UN 2929 Toxic liquid, flammable, organic, n.o.s. or Toxic liquid, flammable, organic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 2930 Toxic solids, flammable, organic, n.o.s.
+UN 2931 Vanadyl sulfate
+UN 2933 Methyl 2-chloropropionate
+UN 2934 Isopropyl 2-chloropropionate
+UN 2935 Ethyl 2-chloropropionate
+UN 2936 Thiolactic acid
+UN 2937 alpha-Methylbenzyl alcohol
+UN 2940 9-Phosphabicyclo-nonanes (Cyclooctadiene phosphines)
+UN 2941 Fluoroanilines
+UN 2942 2-Trifluoromethylaniline
+UN 2943 Tetrahydrofurfurylamine
+UN 2945 N-Methylbutylamine
+UN 2946 2-Amino-5-diethylaminopentane
+UN 2947 Isopropyl chloroacetate
+UN 2948 3-Trifluoromethylaniline
+UN 2949 Sodium hydrosulfide, with not less than 25 percent water of crystallization
+UN 2950 Magnesium granules, coated particle size not less than 149 micrometres
+UN 2956 5-tert-Butyl-2,4,6-trinitro-m-xylene or Musk xylene
+UN 2965 Boron trifluoride dimethyl etherate
+UN 2966 Thioglycol
+UN 2967 Sulfamic acid
+UN 2968 Maneb stabilized or Maneb preparations, stabilized against self-heating
+UN 2969 Castor beans or Castor meal or Castor pomace or Castor flake
+UN 2977 Uranium hexafluoride, fissile
+UN 2978 Uranium hexafluoride, [non fissile or fissile-excepted]
+UN 2983 Ethylene oxide and propylene oxide mixtures with not more than 30 percent ethylene oxide
+UN 2984 Hydrogen peroxide, aqueous solutions with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary)
+UN 2985 Chlorosilanes, flammable, corrosive, n.o.s.
+UN 2986 Chlorosilanes, corrosive, flammable, n.o.s.
+UN 2987 Chlorosilanes, corrosive, n.o.s.
+UN 2988 Chlorosilanes, water-reactive, flammable, corrosive, n.o.s.
+UN 2989 Lead phosphite, dibasic
+UN 2990 Life-saving appliances, self-inflating
+UN 2991 Carbamate pesticide, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 2992 Carbamate pesticides, liquid, toxic
+UN 2993 Arsenical pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 2994 Arsenical pesticides, liquid, toxic
+UN 2995 Organochlorine pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 2996 Organochlorine pesticide, liquid, toxic
+UN 2997 Triazine pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 2998 Triazine pesticides, liquid, toxic
+UN 3005 Thiocarbamate pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3006 Thiocarbamate pesticide, liquid, toxic
+UN 3009 Copper based pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3010 Copper based pesticides, liquid, toxic
+UN 3011 Mercury based pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3012 Mercury based pesticides, liquid, toxic
+UN 3013 Substituted nitrophenol pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3014 Substituted nitrophenol pesticides, liquid, toxic
+UN 3015 Bipyridilium pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3016 Bipyridilium pesticides, liquid, toxic
+UN 3017 Organophosphorus pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3018 Organophosphorus pesticides, liquid, toxic
+UN 3019 Organotin pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3020 Organotin pesticides, liquid, toxic
+UN 3021 Pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 3022 1,2-Butylene oxide, stabilized
+UN 3023 2-Methyl-2-heptanethiol
+UN 3024 Coumarin derivative pesticides, liquid, flammable, toxic, flashpoint less than 23 °C
+UN 3025 Coumarin derivative pesticides, liquid, toxic, flammable, flashpoint not less than 23 °C
+UN 3026 Coumarin derivative pesticides, liquid, toxic
+UN 3027 Coumarin derivative pesticides, solid, toxic
+UN 3028 Batteries, dry, containing potassium hydroxide solid, electric, storage
+UN 3048 Aluminium phosphide pesticides
+UN 3054 Cyclohexyl mercaptan
+UN 3055 2-(2-Aminoethoxy) ethanol
+UN 3056 n-Heptaldehyde
+UN 3057 Trifluoroacetyl chloride
+UN 3064 Nitroglycerin, solution in alcohol, with more than 1 percent but not more than 5 percent nitroglycerin
+UN 3065 Alcoholic beverages
+UN 3066 Paint or Paint related material
+UN 3070 Ethylene oxide and dichlorodifluoromethane mixture with not more than 12.5 percent ethylene oxide
+UN 3071 Mercaptans, liquid, toxic, flammable, n.o.s. or Mercaptan mixtures, liquid, toxic, flammable, n.o.s., flashpoint not less than 23 °C
+UN 3072 Life-saving appliances, not self-inflating containing dangerous goods as equipment
+UN 3073 Vinylpyridines, inhibited
+UN 3077 Environmentally hazardous substance, solid, n.o.s. (not including waste)
+UN 3078 Cerium, turnings or gritty powder
+UN 3079 Methacrylonitrile, inhibited
+UN 3080 Isocyanates, toxic, flammable, n.o.s. or Isocyanate solutions, toxic, flammable, n.o.s. flashpoint not less than 23 °C but not more than 61 °C and boiling point less than 300 °C
+UN 3082 Environmentally hazardous substance, liquid, n.o.s.
+UN 3083 Perchloryl fluoride
+UN 3084 Corrosive solid, oxidizing, n.o.s.
+UN 3085 Oxidizing solid, corrosive, n.o.s.
+UN 3086 Toxic solid, oxidizing, n.o.s.
+UN 3087 Oxidizing solid, toxic, n.o.s.
+UN 3088 Self-heating solid, organic, n.o.s.
+UN 3089 Metal powder, flammable, n.o.s.
+UN 3090 Lithium metal batteries
+UN 3091 Lithium metal batteries contained in equipment or Lithium metal batteries packed with equipment
+UN 3092 1-Methoxy-2-propanol
+UN 3093 Corrosive liquid, oxidizing, n.o.s.
+UN 3094 Corrosive liquid, water-reactive, n.o.s.
+UN 3095 Corrosive solid, self-heating, n.o.s.
+UN 3096 Corrosive solids, water-reactive, n.o.s.
+UN 3097 Flammable solid, oxidizing, n.o.s.
+UN 3098 Oxidizing liquid, corrosive, n.o.s.
+UN 3099 Oxidizing liquid, toxic, n.o.s.
+UN 3100 Oxidizing solid, self-heating, n.o.s.
+UN 3101 Organic peroxide type B, liquid
+UN 3102 Organic peroxide type B, solid
+UN 3103 Organic peroxide type C, liquid
+UN 3104 Organic peroxide type C, solid
+UN 3105 Organic peroxide type D, liquid
+UN 3106 Organic peroxide type D, solid
+UN 3107 Organic peroxide type E, liquid
+UN 3108 Organic peroxide type E, solid
+UN 3109 Organic peroxide type F, liquid
+UN 3110 Organic peroxide type F, solid
+UN 3111 Organic peroxide type B, liquid, temperature controlled
+UN 3112 Organic peroxide type B, solid, temperature controlled
+UN 3113 Organic peroxide type C, liquid, temperature controlled
+UN 3114 Organic peroxide type C, solid, temperature controlled
+UN 3115 Organic peroxide type D, liquid, temperature controlled
+UN 3116 Organic peroxide type D, solid, temperature controlled
+UN 3117 Organic peroxide type E, liquid, temperature controlled
+UN 3118 Organic peroxide type E, solid, temperature controlled
+UN 3119 Organic peroxide type F, liquid, temperature controlled
+UN 3120 Organic peroxide type F, solid, temperature controlled
+UN 3121 Oxidizing solid, water-reactive, n.o.s.
+UN 3122 Toxic liquids, oxidizing, n.o.s. or Toxic liquids, oxidizing, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 3123 Toxic liquids, water-reactive, n.o.s. or Toxic liquids, water-reactive, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 3124 Toxic solids, self-heating, n.o.s.
+UN 3125 Toxic solids, water-reactive, n.o.s.
+UN 3126 Self-heating solid, corrosive, organic, n.o.s.
+UN 3127 Self-heating solid, oxidizing, n.o.s.
+UN 3128 Self-heating solid, toxic, organic, n.o.s.
+UN 3129 Water-reactive liquid, corrosive, n.o.s.
+UN 3130 Water-reactive liquid, toxic, n.o.s.
+UN 3131 Water-reactive solid, corrosive, n.o.s.
+UN 3132 Water-reactive solid, flammable, n.o.s.
+UN 3133 Water-reactive solid, oxidixing, n.o.s.
+UN 3134 Water-reactive solid, toxic, n.o.s.
+UN 3135 Water-reactive solid, self-heating, n.o.s.
+UN 3136 Trifluoromethane, refrigerated liquid
+UN 3137 Oxidizing solid, flammable, n.o.s.
+UN 3138 Ethylene, acetylene and propylene mixture, refrigerated liquid, with not less than 71,5% ethylene, not more than 22,5% acetylene and not more than 6% propylene
+UN 3139 Oxidizing liquid, n.o.s.
+UN 3140 Alkaloids, liquid, n.o.s. or Alkaloid salts, liquid, n.o.s.
+UN 3141 Antimony compound, inorganic, liquid, n.o.s.
+UN 3142 Disinfectant, liquid, toxic, n.o.s.
+UN 3143 Dye, solid, toxic, n.o.s. or Dye intermediate, solid, toxic, n.o.s.
+UN 3144 Nicotine compound, liquid, n.o.s. or Nicotine preparation, liquid, n.o.s.
+UN 3145 Alkylphenols, liquid, n.o.s. (including C2-C12 homologues)
+UN 3146 Organotin compounds, solid, n.o.s.
+UN 3147 Dye, solid, corrosive, n.o.s. or Dye intermediate, solid, corrosive, n.o.s.
+UN 3148 Water-reactive liquid, n.o.s.
+UN 3149 Hydrogen peroxide and peroxyacetic acid mixtures, stabilized, with acids, water, and not more than 5 percent peroxyacetic acid
+UN 3150 Devices, small, hydrocarbon gas powered or Hydrocarbon gas refills for small devices, with release device
+UN 3151 Polyhalogenated biphenyls, liquid or Polyhalogenated terphenyls, liquid
+UN 3152 Polyhalogenated biphenyls, solid or Polyhalogenated terphenyls, solid
+UN 3153 Perfluoro(methyl vinyl ether)
+UN 3154 Perfluoro(ethyl vinyl ether)
+UN 3155 Pentachlorophenol
+UN 3156 Compressed gas, oxidizing, n.o.s.
+UN 3157 Liquefied gas, oxidizing, n.o.s.
+UN 3158 Gas, refrigerated liquid, n.o.s. (cryogenic liquid)
+UN 3159 1,1,1,2-Tetrafluoroethane or Refrigerant gas R 134a
+UN 3160 Liquefied gas, toxic, flammable, n.o.s. Inhalation Hazard Zone A, B, C, or D
+UN 3161 Liquefied gas, flammable, n.o.s.
+UN 3162 Liquefied gas, toxic, n.o.s. Inhalation Hazard Zone A, B, C, or D
+UN 3163 Liquefied gas, n.o.s.
+UN 3164 Articles, pressurized pneumatic or Hydraulic (containing non-flammable gas)
+UN 3165 Aircraft hydraulic power unit fuel tank (containing a mixture of anhydrous hydrazine and monomethyl hydrazine) (M86 fuel)
+UN 3166 Engines, internal combustion, flammable gas powered or Engines, internal combustion, flammable liquid powered or Vehicle, flammable gas powered or Vehicle, flammable liquid powered
+UN 3167 Gas sample, non-pressurized, flammable, n.o.s., not refrigerated liquid
+UN 3168 Gas sample, non-pressurized, toxic, flammable, n.o.s., not refrigerated liquid
+UN 3169 Gas sample, non-pressurized, toxic, n.o.s., not refrigerated liquid
+UN 3170 Aluminum smelting by-products or Aluminum remelting by-products or Aluminum Dross
+UN 3171 Battery-powered vehicle or Battery-powered equipment
+UN 3172 Toxins, extracted from living sources, liquid, n.o.s
+UN 3174 Titanium disulfide
+UN 3175 Solids containing flammable liquid, n.o.s.
+UN 3176 Flammable solid, organic, molten, n.o.s.
+UN 3178 Flammable solid, inorganic, n.o.s.
+UN 3179 Flammable solid, toxic, inorganic, n.o.s.
+UN 3180 Flammable solid, corrosive, inorganic, n.o.s.
+UN 3181 Metal salts of organic compounds, flammable, n.o.s.
+UN 3182 Metal hydrides, flammable, n.o.s.
+UN 3183 Self-heating liquid, organic, n.o.s.
+UN 3184 Self-heating liquid, toxic, organic, n.o.s.
+UN 3185 Self-heating liquid, corrosive, organic, n.o.s.
+UN 3186 Self-heating liquid, inorganic, n.o.s.
+UN 3187 Self-heating liquid, toxic, inorganic, n.o.s.
+UN 3188 Self-heating liquid, corrosive, inorganic, n.o.s.
+UN 3189 Metal powder, self-heating, n.o.s.
+UN 3190 Self-heating solid, inorganic, n.o.s.
+UN 3191 Self-heating solid, toxic, inorganic, n.o.s.
+UN 3192 Self-heating solid, corrosive, inorganic, n.o.s.
+UN 3194 Pyrophoric liquid, inorganic, n.o.s.
+UN 3200 Pyrophoric solid, inorganic, n.o.s.
+UN 3205 Alkaline earth metal alcoholates, n.o.s.
+UN 3206 Alkali metal alcoholates, self-heating, corrosive, n.o.s.
+UN 3208 Metallic substance, water-reactive, n.o.s.
+UN 3209 Metallic substance, water-reactive, self-heating, n.o.s.
+UN 3210 Chlorates, inorganic, aqueous solutions, n.o.s.
+UN 3211 Perchlorates, inorganic, aqueous solution, n.o.s.
+UN 3212 Hypochlorites, inorganic, n.o.s.
+UN 3213 Bromates, inorganic, aqueous solution, n.o.s.
+UN 3214 Permanganates, inorganic, aqueous solution, n.o.s.
+UN 3215 Persulfates, inorganic, n.o.s.
+UN 3216 Persulfates, inorganic, aqueous solution, n.o.s.
+UN 3218 Nitrates, inorganic, aqueous solution, n.o.s.
+UN 3219 Nitrites, inorganic, aqueous solution, n.o.s.
+UN 3220 Pentafluoroethane or Refrigerant gas R 125
+UN 3221 Self-reactive liquid type B
+UN 3222 Self-reactive solid type B
+UN 3223 Self-reactive liquid type C
+UN 3224 Self-reactive solid type C
+UN 3225 Self-reactive liquid type D
+UN 3226 Self-reactive solid type D
+UN 3227 Self-reactive liquid type E
+UN 3228 Self-reactive solid type E
+UN 3229 Self-reactive liquid type F
+UN 3230 Self-reactive solid type F
+UN 3231 Self-reactive liquid type B, temperature controlled
+UN 3232 Self-reactive solid type B, temperature controlled
+UN 3233 Self-reactive liquid type C, temperature controlled
+UN 3234 Self-reactive solid type C, temperature controlled
+UN 3235 Self-reactive liquid type D, temperature controlled
+UN 3236 Self-reactive solid type D, temperature controlled
+UN 3237 Self-reactive liquid type E, temperature controlled
+UN 3238 Self-reactive solid type E, temperature controlled
+UN 3239 Self-reactive liquid type F, temperature controlled
+UN 3240 Self-reactive solid type F, temperature controlled
+UN 3241 2-Bromo-2-nitropropane-1,3-diol
+UN 3242 Azodicarbonamide
+UN 3243 Solids containing toxic liquid, n.o.s.
+UN 3244 Solids containing corrosive liquid, n.o.s.
+UN 3245 Genetically modified microorganisms or Genetically modified organisms
+UN 3246 Methanesulfonyl chloride
+UN 3247 Sodium peroxoborate, anhydrous,
+UN 3248 Medicine, liquid, flammable, toxic, n.o.s.
+UN 3249 Medicine, solid, toxic, n.o.s.
+UN 3250 Chloroacetic acid, molten
+UN 3251 Isosorbide-5-mononitrate
+UN 3252 Difluoromethane or Refrigerant gas R 32
+UN 3253 Disodium trioxosilicate
+UN 3254 Tributylphosphane
+UN 3255 tert-Butyl hypochlorite
+UN 3256 Elevated temperature liquid, flammable, n.o.s., with flashpoint above 60 °C, at or above its flashpoint
+UN 3257 Elevated temperature liquid, n.o.s., at or above 100 °C and below its flashpoint (including molten metals, molten salts, etc.)
+UN 3258 Elevated temperature solid, n.o.s., at or above 240 °C, see 49 CFR 173.247(h)(4)
+UN 3259 Amines, solid, corrosive, n.o.s. or Polyamines, solid, corrosive, n.o.s.
+UN 3260 Corrosive solid, acidic, inorganic, n.o.s.
+UN 3261 Corrosive solid, acidic, organic, n.o.s.
+UN 3262 Corrosive solid, basic, inorganic, n.o.s.
+UN 3263 Corrosive solid, basic, organic, n.o.s.
+UN 3264 Corrosive liquid, acidic, inorganic, n.o.s.
+UN 3265 Corrosive liquid, acidic, organic, n.o.s.
+UN 3266 Corrosive liquid, basic, inorganic, n.o.s.
+UN 3267 Corrosive liquid, basic, organic, n.o.s.
+UN 3268 Safety devices electrically initiated
+UN 3269 Polyester resin kit
+UN 3270 Nitrocellulose membrane filters
+UN 3271 Ethers, n.o.s.
+UN 3272 Esters, n.o.s.
+UN 3273 Nitriles, flammable, toxic, n.o.s.
+UN 3274 Alcoholates solution, n.o.s., in alcohol
+UN 3275 Nitriles, toxic, flammable, n.o.s.
+UN 3276 Nitriles, toxic, liquid, n.o.s.
+UN 3277 Chloroformates, toxic, corrosive, n.o.s.
+UN 3278 Organophosphorus compound, toxic, liquid, n.o.s.
+UN 3279 Organophosphorus compound, toxic, flammable, n.o.s.
+UN 3280 Organoarsenic compound, n.o.s.
+UN 3281 Metal carbonyls, liquid, n.o.s.
+UN 3282 Organometallic compound, toxic, liquid, n.o.s.
+UN 3283 Selenium compound, solid, n.o.s.
+UN 3284 Tellurium compound, solid, n.o.s.
+UN 3285 Vanadium compound, n.o.s.
+UN 3286 Flammable liquid, toxic, corrosive, n.o.s.
+UN 3287 Toxic liquid, inorganic, n.o.s. or Toxic liquid, inorganic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 3288 Toxic solid, inorganic, n.o.s.
+UN 3289 Toxic liquid, corrosive, inorganic, n.o.s. or Toxic liquid, corrosive, inorganic, n.o.s. Inhalation Hazard, Packing Group I, Zone A or B
+UN 3290 Toxic solid, corrosive, inorganic, n.o.s.
+UN 3291 Clinical waste, unspecified, n.o.s. or (Bio)medical waste, n.o.s. or Regulated medical waste, n.o.s
+UN 3292 Batteries, containing sodium or Cells, containing sodium
+UN 3293 Hydrazine, aqueous solution with not more than 37 percent hydrazine, by mass
+UN 3294 Hydrogen cyanide, solution in alcohol with not more than 45 percent hydrogen cyanide
+UN 3295 Hydrocarbons, liquid, n.o.s.
+UN 3296 Heptafluoropropane or Refrigerant gas R 227
+UN 3297 Ethylene oxide and chlorotetrafluoroethane mixture with not more than 8.8 percent ethylene oxide
+UN 3298 Ethylene oxide and pentafluoroethane mixture with not more than 7.9 percent ethylene oxide
+UN 3299 Ethylene oxide and tetrafluoroethane mixture with not more than 5.6 percent ethylene oxide
+UN 3300 Ethylene oxide and carbon dioxide mixture with more than 87 percent ethylene oxide
+UN 3301 Corrosive liquid, self-heating, n.o.s.
+UN 3302 2-Dimethylaminoethyl acrylate
+UN 3303 Compressed gas, toxic, oxidising, n.o.s.
+UN 3304 Compressed gas, toxic, corrosive, n.o.s.
+UN 3305 Compressed gas, toxic, flammable, corrosive, n.o.s.
+UN 3306 Compressed gas, toxic, oxidising, corrosive, n.o.s.
+UN 3307 Liquefied gas, toxic, oxidising, n.o.s.
+UN 3308 Liquefied gas, toxic, corrosive, n.o.s.
+UN 3309 Liquefied gas, toxic, flammable, corrosive, n.o.s.
+UN 3310 Liquefied gas, toxic, oxidising, corrosive, n.o.s.
+UN 3311 Gas, refrigerated liquid, oxidising, n.o.s.
+UN 3312 Gas, refrigerated liquid, flammable, n.o.s.
+UN 3313 Organic pigments, self-heating
+UN 3314 Plastics moulding compound in dough, sheet or extruded rope form evolving flammable vapour
+UN 3315 Chemical sample, toxic
+UN 3316 Chemical kit or First Aid kit containing dangerous goods
+UN 3317 2-Amino-4,6-dinitrophenol, wetted, with not less than 20% water by mass
+UN 3318 Ammonia solution, relative density less than 0.880 at 15 °C in water, with more than 50% ammonia
+UN 3319 Nitroglycerin mixture, desensitized, solid, n.o.s., with more than 2% but not more than 10% nitroglycerin, by mass
+UN 3320 Sodium borohydride and sodium hydroxide solution, with not more than 12% sodium borohydride and not more than 20% sodium hydroxide, by mass
+UN 3321 Radioactive material, low specific activity (LSA-II), non-fissile or fissile excepted
+UN 3322 Radioactive material, low specific activity (LSA-III), non-fissile or fissile excepted
+UN 3323 Radioactive material, Type C package, non-fissile or fissile excepted
+UN 3324 Radioactive material, low specific activity (LSA-II), fissile
+UN 3325 Radioactive material, low specific activity (LSA-III), fissile
+UN 3326 Radioactive material, surface contaminated objects (SCO-I or SCO-II), fissile
+UN 3327 Radioactive material, Type A package, fissile, non-special form
+UN 3328 Radioactive material, Type B (U) package, fissile
+UN 3329 Radioactive material, Type B (M) package, fissile
+UN 3330 Radioactive material, Type C package, fissile
+UN 3331 Radioactive material, transported under special arrangements, fissile
+UN 3332 Radioactive material, Type A package, special form, non-fissile or fissile excepted
+UN 3333 Radioactive material, Type A package, special form, fissile
+UN 3334 Aviation regulated liquid, n.o.s.
+UN 3335 Aviation regulated solid, n.o.s.
+UN 3336 Mercaptans, liquid, flammable, n.o.s. or Mercaptan mixture, liquid, flammable, n.o.s.
+UN 3337 Refrigerant gas R404A
+UN 3338 Refrigerant gas R407A
+UN 3339 Refrigerant gas R407B
+UN 3340 Refrigerant gas R407C
+UN 3341 Thiourea dioxide
+UN 3342 Xanthates
+UN 3343 Nitroglycerin mixture, desensitized, liquid, flammable, n.o.s., with not more than 30% nitroglycerin by mass
+UN 3344 Pentaerythritol tetranitrate mixture, desensitized, solid, n.o.s., with more than 10% but not more than 20% PETN by mass
+UN 3345 Phenoxyacetic acid derivative pesticide, solid, toxic
+UN 3346 Phenoxyacetic acid derivative pesticide, liquid, flammable, toxic flash point less than 23 °C
+UN 3347 Phenoxyacetic acid derivative pesticide, liquid, toxic, flammable flash point 23 °C or more
+UN 3348 Phenoxyacetic acid derivative pesticide, liquid, toxic
+UN 3349 Pyrethroid pesticide, solid, toxic
+UN 3350 Pyrethroid pesticide, liquid, flammable, toxic flash point less than 23 °C
+UN 3351 Pyrethroid pesticide, liquid, toxic, flammable flash point 23 °C or more
+UN 3352 Pyrethroid pesticide, liquid, toxic
+UN 3354 Insecticide gas, flammable, n.o.s.
+UN 3355 Insecticide gas, toxic, flammable, n.o.s.
+UN 3356 Oxygen generator, chemical
+UN 3357 Nitroglycerin mixture, desensitized, liquid, n.o.s., with not more than 30% nitroglycerin by mass
+UN 3358 Refrigerating machines, containing flammable, non-toxic, liquefied gas
+UN 3359 Fumigated unit
+UN 3360 Fibres, vegetable, dry
+UN 3361 Chlorosilanes, toxic, corrosive, n.o.s.
+UN 3362 Chlorosilanes, toxic, corrosive, flammable, n.o.s.
+UN 3363 Dangerous goods in machinery or Dangerous goods in apparatus
+UN 3364 Trinitrophenol (Picric acid), wetted, with not less than 10% water by mass
+UN 3365 Trinitrochlorobenzene (Picryl chloride), wetted, with not less than 10% water by mass
+UN 3366 Trinitrotoluene (TNT), wetted, with not less than 10% water by mass
+UN 3367 Trinitrobenzene, wetted, with not less than 10% water by mass
+UN 3368 Trinitrobenzoic acid, wetted, with not less than 10% water by mass
+UN 3369 Sodium dinitro-o-cresolate, wetted, with not less than 10% water by mass
+UN 3370 Urea nitrate, wetted, with not less than 10% water by mass
+UN 3371 2-Methylbutanal
+UN 3373 Biological substance, Category B
+UN 3374 Acetylene, solvent free
+UN 3375 Ammonium nitrate emulsion or suspension or gel
+UN 3376 4-Nitrophenylhydrazine, with not less than 30% water by mass
+UN 3377 Sodium perborate monohydrate
+UN 3378 Sodium carbonate peroxyhydrate
+UN 3379 Desensitized explosive, liquid, n.o.s.
+UN 3380 Desensitized explosive, solid, n.o.s.
+UN 3381 Toxic by inhalation liquid, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3382 Toxic by inhalation liquid, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3383 Toxic by inhalation liquid, flammable, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3384 Toxic by inhalation liquid, flammable, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3385 Toxic by inhalation liquid, water-reactive, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3386 Toxic by inhalation liquid, water-reactive, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3387 Toxic by inhalation liquid, oxidising, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3388 Toxic by inhalation liquid, oxidising, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3389 Toxic by inhalation liquid, corrosive, n.o.s. with an inhalation toxicity lower than or equal to 200ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3390 Toxic by inhalation liquid, corrosive, n.o.s. with an inhalation toxicity lower than or equal to 1000ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3391 Organometallic substance, solid, pyrophoric
+UN 3392 Organometallic substance, liquid, pyrophoric
+UN 3393 Organometallic substance, solid, pyrophoric, water-reactive
+UN 3394 Organometallic substance, liquid, pyrophoric, water-reactive
+UN 3395 Organometallic substance, solid, water-reactive
+UN 3396 Organometallic substance, solid, water-reactive, flammable
+UN 3397 Organometallic substance, solid, water-reactive, self-heating
+UN 3398 Organometallic substance, liquid, water-reactive
+UN 3399 Organometallic substance, liquid, water-reactive, flammable
+UN 3400 Organometallic substance, liquid, water-reactive, self-heating
+UN 3401 Alkali metal amalgam, solid
+UN 3402 Alkaline earth metal amalgam, solid
+UN 3403 Potassium metal alloys, solid
+UN 3404 Potassium sodium alloys, solid
+UN 3405 Barium chlorate solution
+UN 3406 Barium perchlorate solution
+UN 3407 Chlorate and magnesium chloride mixture solution
+UN 3408 Lead perchlorate solution
+UN 3409 Chloronitrobenzenes, liquid
+UN 3410 4-Chloro-o-toluidine hydrochloride solution
+UN 3411 beta-Naphthylamine solution
+UN 3412 Formic acid a. with not less than 10% but not more than 85% acid by mass, or, b. with not less than 5% but not more than 10% acid by mass
+UN 3413 Potassium cyanide solution
+UN 3414 Sodium cyanide solution
+UN 3415 Sodium fluoride solution
+UN 3416 Chloroacetophenone, liquid
+UN 3417 Xylyl bromide solution
+UN 3418 2,4-Toluylenediamine solution
+UN 3419 Boron trifluoride-acetic acid complex, solid
+UN 3420 Boron trifluoride-propionic acid complex, solid
+UN 3421 Potassium hydrogen difluoride solution
+UN 3422 Potassium fluoride solution
+UN 3423 Tetramethylammonium hydroxide, solid
+UN 3424 Ammonium dinitro-o-cresolate solution
+UN 3425 Bromoacetic acid, solid
+UN 3426 Acrylamide solution
+UN 3427 Chlorobenzyl chlorides, solid
+UN 3428 3-Chloro-4-methylphenyl isocyanate, solid
+UN 3429 Chlorotoluidines, liquid
+UN 3430 Xylenols, liquid
+UN 3431 Nitrobenzotrifluorides, solid
+UN 3432 Polychlorinated biphenyls, solid
+UN 3434 Nitrocresols, liquid
+UN 3436 Hexafluoroacetone hydrate, solid
+UN 3437 Chlorocresols, solid
+UN 3438 alpha-Methylbenzyl alcohol, solid
+UN 3439 Nitriles, solid, toxic, n.o.s.
+UN 3440 Selenium compound, liquid, n.o.s.
+UN 3441 Chlorodinitrobenzenes, solid
+UN 3442 Dichloroanilines, solid
+UN 3443 Dinitrobenzenes, solid
+UN 3444 Nicotine hydrochloride, solid
+UN 3445 Nicotine sulphate, solid
+UN 3446 Nitrotoluenes, solid
+UN 3447 Nitroxylenes, solid
+UN 3448 Tear gas substance, solid, n.o.s.
+UN 3449 Bromobenzyl cyanides, solid
+UN 3450 Diphenylchloroarsine, solid
+UN 3451 Toluidines, solid
+UN 3452 Xylidines, solid
+UN 3453 Phosphoric acid, solid
+UN 3454 Dinitrotoluenes, solid
+UN 3455 Cresols, solid
+UN 3456 Nitrosylsulphuric acid, solid
+UN 3457 Chloronitrotoluenes, solid
+UN 3458 Nitroanisoles, solid
+UN 3459 Nitrobromobenzenes, solid
+UN 3460 N-Ethylbenzyltoluidines, solid
+UN 3462 Toxins extracted from living sources, solid, n.o.s.
+UN 3463 Propionic acid with not less than 90% acid by mass
+UN 3464 Organophosphorus compound, toxic, solid, n.o.s.
+UN 3465 Organoarsenic compound, solid, n.o.s.
+UN 3466 Metal carbonyls, solid, n.o.s.
+UN 3467 Organometallic compound, toxic, solid, n.o.s.
+UN 3468 Hydrogen in metal hydride storage system
+UN 3469 Paint, flammable, corrosive or Paint related material, flammable, corrosive
+UN 3470 Paint, corrosive, flammable or Paint related material, corrosive, flammable
+UN 3471 Hydrogen difluorides solution, n.o.s.
+UN 3472 Crotonic acid, liquid
+UN 3473 Fuel cell cartridges, or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing flammable liquids
+UN 3474 1-Hydroxybenzotriazole, anhydrous, wetted with not less than 20% water, by mass
+UN 3475 Ethanol and gasoline mixture or ethanol and motor spirit mixture or ethanol and petrol mixture, with more than 10% ethanol
+UN 3476 Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing water-reactive substances
+UN 3477 Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing corrosive substances
+UN 3478 Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing liquefied flammable gas
+UN 3479 Fuel cell cartridges or Fuel cell cartridges contained in equipment or Fuel cell cartridges packed with equipment, containing hydrogen in metal hydride
+UN 3480 Lithium ion batteries (including lithium ion polymer batteries)
+UN 3481 Lithium ion batteries contained in equipment or Lithium ion batteries packed with equipment (including lithium ion polymer batteries)
+UN 3482 Alkali metal dispersion, flammable or alkaline earth metal dispersion, flammable
+UN 3483 Motor fuel anti-knock mixture, flammable
+UN 3484 Hydrazine aqueous solution, flammable with more than 37% hydrazine, by mass
+UN 3485 Calcium hypochlorite, dry, corrosive or Calcium hypochlorite mixture, dry, corrosive with more than 39% available chlorine (8.8% available oxygen)
+UN 3486 Calcium hypochlorite mixture, dry, corrosive with more than 10% but not more than 39% available chlorine
+UN 3487 Calcium hypochlorite, hydrated, corrosive or Calcium hypochlorite mixture, hydrated, corrosive with not less than 5.5% but not more than 16% water
+UN 3488 Toxic by inhalation liquid, flammable, corrosive, N.O.S. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3489 Toxic by inhalation liquid, flammable, corrosive, N.O.S. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3490 Toxic by inhalation liquid, water reactive, flammable, N.O.S. with an inhalation toxicity lower than or equal to 200 ml/m3 and saturated vapour concentration greater than or equal to 500 LC50
+UN 3491 Toxic by inhalation liquid, water reactive, flammable, N.O.S. with an inhalation toxicity lower than or equal to 1000 ml/m3 and saturated vapour concentration greater than or equal to 10 LC50
+UN 3494 Petroleum sour crude oil, flammable, toxic
+UN 3495 Iodine
+UN 3496 Batteries, nickel-metal hydride
+UN 3497 Krill meal
+UN 3498 Iodine Monochloride, liquid
+UN 3499 Capacitor, electric double layer (with an energy storage capacity greater than 0.3 Wh)
+UN 3500 Chemical under Pressure, N.O.S.
+UN 3501 Chemical under pressure, flammable, not otherwise specified
+UN 3502 Chemical under pressure, toxic, not otherwise specified
+UN 3503 Chemical under pressure, corrosive, not otherwise specified
+UN 3504 Chemical under pressure, flammable, toxic, not otherwise specified
+UN 3505 Chemical under pressure, flammable, corrosive, not otherwise specified
+UN 3506 Mercury contained in manufactured articles
+UN 3507 Uranium hexafluoride, radioactive material, excepted package, less than 0.1 kg per package, non-fissile or fissile excepted
+UN 3508 Capacitor, asymmetric, electric double layer (with an energy storage capacity greater than 0.3 Wh)
+UN 3509 Packaging, discarded, empty, uncleaned
+UN 3510 Adsorbed gas, flammable, not otherwise specified
+UN 3511 Adsorbed gas, not otherwise specified
+UN 3512 Adsorbed gas, toxic, not otherwise specified
+UN 3513 Adsorbed gas, oxidizing, not otherwise specified
+UN 3514 Adsorbed gas, toxic, flammable, not otherwise specified
+UN 3515 Adsorbed gas, toxic, oxidizing, not otherwise specified
+UN 3516 Adsorbed gas, toxic, corrosive, not otherwise specified
+UN 3517 Adsorbed gas, toxic, flammable, corrosive, not otherwise specified
+UN 3518 Adsorbed gas, toxic, oxidizing, corrosive, not otherwise specified
+UN 3519 Boron trifluoride, adsorbed
+UN 3520 Chlorine, adsorbed
+UN 3521 Silicon tetrafluoride, adsorbed
+UN 3522 Arsine, adsorbed
+UN 3523 Germane, adsorbed
+UN 3524 Phosphorus pentafluoride, adsorbed
+UN 3525 Phosphine, adsorbed
+UN 3526 Hydrogen selenide, adsorbed
+UN 3527 Polyester resin kit, solid base material
+UN 3528 Engine, internal combustion, flammable liquid powered or engine, fuel cell, flammable liquid powered or machinery, internal combustion, flammable liquid powered or machinery, fuel cell, flammable liquid powered
+UN 3529 Engine, internal combustion, flammable gas powered or engine, fuel cell, flammable gas powered or machinery, internal combustion, flammable gas powered or machinery, fuel cell, flammable gas powered
+UN 3530 Engine, internal combustion or machinery, internal combustion
+UN 3531 Polymerizing substance, solid, stabilized, not otherwise specified
+UN 3532 Polymerizing substance, liquid, stabilized, not otherwise specified
+UN 3533 Polymerizing substance, solid, stabilized, temperature controlled, not otherwise specified
+UN 3534 Polymerizing substance, liquid, stabilized, temperature controlled, not otherwise specified
+UN 3535 Toxic solid, flammable, inorganic, not otherwise specified
+UN 3536 Lithium batteries installed in cargo transport unit lithium ion batteries or lithium metal batteries
+UN 3537 Articles containing flammable gas, not otherwise specified
+UN 3538 Articles containing non-flammable, non toxic gas, not otherwise specified
+UN 3539 Articles containing toxic gas, not otherwise specified
+UN 3540 Articles containing flammable liquid, not otherwise specified
+UN 3541 Articles containing flammable solid, not otherwise specified
+UN 3542 Articles containing a substance liable to spontaneous combustion, not otherwise specified
+UN 3543 Articles containing a substance which emits flammable gas in contact with water, not otherwise specified
+UN 3544 Articles containing oxidizing substance, not otherwise specified
+UN 3545 Articles containing organic peroxide, not otherwise specified
+UN 3546 Articles containing toxic substance, not otherwise specified
+UN 3547 Articles containing corrosive substance, not otherwise specified
+UN 3548 Articles containing miscellaneous dangerous goods, not otherwise specified
+UN 3549 Medical waste, category A, affecting humans, solid or Medical waste, category A, affecting animals only, solid
