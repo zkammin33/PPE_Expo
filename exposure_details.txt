@@ -1,0 +1,55 @@
+Hazmat
+Select activities performed at the station
+   Diesel Exhaust
+   Mold
+   Toxic Water
+What was the scope of the situation?
+   Small spill (under 55 gallons)
+   Large spill (over 55 gallons
+UN ID number of the material?
+	*Get a list of all the IDs
+What was the state of the material?
+   Combustible
+   Dust
+   Flood Water
+   Heavy Mist
+   Heavy particulate
+   Liquid
+   Solid
+   Vapor/Gas
+Was the material stable?
+   Yes or No
+Type and duration of activities?
+	*
+What protective equipment was worn?
+   Level A
+	Greatest level of skin, respiratory and eye protection
+   Level B
+	Highest level of respiratory protection is necessary but a lesser level of skin protection
+   Level C
+	Concentration(s) and type(s) of airborne substance(s) is know and the criteria for using
+	air purifying respirations are met
+   Level D
+	Work uniform addording minimal protection
+
+Technical Rescue
+
+   Type of Rescue operation
+	Elevator
+	Rapid/Swift Water
+	Still Water
+	Confined Space
+	Trench
+	Technical Rescue
+	High Angle
+	Low Angle
+	Entrapment
+	Other
+Technical Rescue activities and operations performed?
+	*
+
+
+EMS
+Activites Performed on Scene
+	Secure Scene
+
