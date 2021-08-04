@@ -483,8 +483,10 @@ class Ui_Form(object):
         self.retranslateUi(Form)
 
         self.main_widget.setCurrentIndex(0)
-        self.expo_type_widget.setCurrentIndex(2)
+        self.expo_type_widget.setCurrentIndex(1)
         self.bio_chem_widget.setCurrentIndex(2)
+
+
 
 
         QMetaObject.connectSlotsByName(Form)

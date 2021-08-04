@@ -6,6 +6,7 @@ from pyzbar import pyzbar
 import cv2
 import random
 import sys
+import pyautogui
 import Login
 import Main_Screen
 import Report_Exposure
@@ -31,6 +32,12 @@ class NewWindow(QtWidgets.QWidget):
         super().__init__()
         self.log_ui = Main_Screen.Ui_Form()
         self.log_ui.setupUi(self)
+        self.screen_width, self.screen_height = pyautogui.size()
+        print(self.screen_width, self.screen_height)
+        self.window_pos_x = (self.screen_width - self.width()) / 2
+        self.window_pos_y = (self.screen_height - self.height()) / 3
+        self.move(self.window_pos_x, self.window_pos_y)
+        print(self.window_pos_x, self.window_pos_y)
         self.log_ui.main_widget.setCurrentWidget(self.log_ui.page_2)
         self.log_ui.expo_type_widget.setCurrentWidget(self.log_ui.inner_blank_page)
         self.log_ui.bio_chem_widget.setCurrentWidget(self.log_ui.expo_type_blank_page)
