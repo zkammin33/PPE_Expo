@@ -509,7 +509,7 @@ Report</string>
       <number>2</number>
      </property>
      <property name="currentIndex">
-      <number>1</number>
+      <number>2</number>
      </property>
      <widget class="QWidget" name="expo_fire_page">
       <widget class="QGroupBox" name="what_burn_gb">
@@ -1481,6 +1481,227 @@ COVID 19</string>
         <property name="text">
          <string>Enter the materials name or UN ID number</string>
         </property>
+       </widget>
+      </widget>
+      <widget class="QGroupBox" name="mat_state_gb">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>120</y>
+         <width>271</width>
+         <height>81</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="title">
+        <string>Material State</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
+       </property>
+       <widget class="QComboBox" name="mat_state_cmb">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>231</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>ArrowCursor</cursorShape>
+        </property>
+        <property name="placeholderText">
+         <string/>
+        </property>
+        <item>
+         <property name="text">
+          <string/>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Combustable</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Dust</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Flood Water</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Heavy Mist</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Heavy Particulate</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Liquid</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Solid</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Vapor/Gas</string>
+         </property>
+        </item>
+       </widget>
+      </widget>
+      <widget class="QGroupBox" name="mat_stable_gb">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>220</y>
+         <width>271</width>
+         <height>81</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="title">
+        <string>Material Stability</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
+       </property>
+       <widget class="QRadioButton" name="mat_stable_radio_btn">
+        <property name="geometry">
+         <rect>
+          <x>40</x>
+          <y>40</y>
+          <width>71</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Stable</string>
+        </property>
+       </widget>
+       <widget class="QRadioButton" name="mat_not_stable_radio_btn">
+        <property name="geometry">
+         <rect>
+          <x>150</x>
+          <y>40</y>
+          <width>101</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Not Stable</string>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QGroupBox" name="gear_worn_gb">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>330</y>
+         <width>271</width>
+         <height>81</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="title">
+        <string>Protective Gear Worn</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
+       </property>
+       <widget class="QComboBox" name="gear_worn_cmb">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>30</y>
+          <width>231</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>12</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>ArrowCursor</cursorShape>
+        </property>
+        <property name="placeholderText">
+         <string/>
+        </property>
+        <item>
+         <property name="text">
+          <string/>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Level A - Full skin, respiratory, and eye protection</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Level B - Full respiratory protection &amp; lesser amount of skin protection</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Level C - Necessary respiratory protection for known airborne substances</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Level D - Work uniform (Minimal protection)</string>
+         </property>
+        </item>
        </widget>
       </widget>
      </widget>
