@@ -179,6 +179,9 @@ Report</string>
    </widget>
   </widget>
   <widget class="QStackedWidget" name="main_widget">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>280</x>
@@ -225,7 +228,7 @@ Report</string>
       <rect>
        <x>20</x>
        <y>10</y>
-       <width>161</width>
+       <width>171</width>
        <height>16</height>
       </rect>
      </property>
@@ -241,8 +244,8 @@ Report</string>
     <widget class="QGroupBox" name="inc_type_gb">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>340</y>
+       <x>400</x>
+       <y>130</y>
        <width>271</width>
        <height>81</height>
       </rect>
@@ -310,8 +313,8 @@ Report</string>
     <widget class="QGroupBox" name="inc_num_gb">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>250</y>
+       <x>400</x>
+       <y>30</y>
        <width>271</width>
        <height>81</height>
       </rect>
@@ -350,8 +353,8 @@ Report</string>
     <widget class="QGroupBox" name="exposure_type_gb">
      <property name="geometry">
       <rect>
-       <x>320</x>
-       <y>250</y>
+       <x>700</x>
+       <y>30</y>
        <width>271</width>
        <height>81</height>
       </rect>
@@ -419,18 +422,13 @@ Report</string>
         <string>Technical Rescue</string>
        </property>
       </item>
-      <item>
-       <property name="text">
-        <string>Other</string>
-       </property>
-      </item>
      </widget>
     </widget>
     <widget class="QGroupBox" name="dirty_gear_gb">
      <property name="geometry">
       <rect>
-       <x>20</x>
-       <y>430</y>
+       <x>700</x>
+       <y>130</y>
        <width>271</width>
        <height>81</height>
       </rect>
@@ -493,10 +491,10 @@ Report</string>
     <widget class="QStackedWidget" name="expo_type_widget">
      <property name="geometry">
       <rect>
-       <x>680</x>
-       <y>20</y>
-       <width>881</width>
-       <height>761</height>
+       <x>1040</x>
+       <y>40</y>
+       <width>511</width>
+       <height>731</height>
       </rect>
      </property>
      <property name="frameShape">
@@ -515,10 +513,10 @@ Report</string>
       <widget class="QGroupBox" name="what_burn_gb">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>20</y>
+         <x>20</x>
+         <y>19</y>
          <width>330</width>
-         <height>100</height>
+         <height>91</height>
         </rect>
        </property>
        <property name="font">
@@ -543,8 +541,8 @@ Report</string>
          <rect>
           <x>20</x>
           <y>40</y>
-          <width>290</width>
-          <height>40</height>
+          <width>291</width>
+          <height>31</height>
          </rect>
         </property>
         <property name="font">
@@ -604,10 +602,10 @@ Report</string>
       <widget class="QGroupBox" name="fire_cond_gb">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>440</y>
+         <x>20</x>
+         <y>110</y>
          <width>330</width>
-         <height>100</height>
+         <height>81</height>
         </rect>
        </property>
        <property name="font">
@@ -633,7 +631,7 @@ Report</string>
           <x>20</x>
           <y>30</y>
           <width>290</width>
-          <height>40</height>
+          <height>31</height>
          </rect>
         </property>
         <property name="font">
@@ -683,10 +681,10 @@ Report</string>
       <widget class="QGroupBox" name="smoke_inter_gb">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>160</y>
+         <x>20</x>
+         <y>290</y>
          <width>330</width>
-         <height>100</height>
+         <height>91</height>
         </rect>
        </property>
        <property name="font">
@@ -712,7 +710,7 @@ Report</string>
           <x>20</x>
           <y>40</y>
           <width>290</width>
-          <height>40</height>
+          <height>31</height>
          </rect>
         </property>
         <property name="font">
@@ -747,10 +745,10 @@ Report</string>
       <widget class="QGroupBox" name="foam_gb">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>300</y>
-         <width>330</width>
-         <height>100</height>
+         <x>20</x>
+         <y>200</y>
+         <width>251</width>
+         <height>81</height>
         </rect>
        </property>
        <property name="font">
@@ -774,9 +772,9 @@ Report</string>
         <property name="geometry">
          <rect>
           <x>20</x>
-          <y>30</y>
-          <width>290</width>
-          <height>40</height>
+          <y>29</y>
+          <width>211</width>
+          <height>31</height>
          </rect>
         </property>
         <property name="font">
@@ -811,13 +809,380 @@ Report</string>
         </item>
        </widget>
       </widget>
+      <widget class="QGroupBox" name="washed_gear_gb">
+       <property name="geometry">
+        <rect>
+         <x>20</x>
+         <y>400</y>
+         <width>461</width>
+         <height>281</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>12</pointsize>
+        </font>
+       </property>
+       <property name="title">
+        <string>Washed Gear</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
+       </property>
+       <widget class="QCheckBox" name="helment_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>30</y>
+          <width>101</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Helmet</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="hood_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>80</y>
+          <width>101</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Hood</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="coat_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>130</y>
+          <width>71</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Coat</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="pants_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>80</y>
+          <width>101</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Pants</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="boots_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>180</y>
+          <width>181</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Station Gear</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="gloves_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>180</y>
+          <width>101</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Gloves</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="scba_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>230</y>
+          <width>101</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>SCBA</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="scba_face_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>230</y>
+          <width>281</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>SCBA Face Piece/Mask</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="helm_liner_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>30</y>
+          <width>291</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Helmet Linear/Ear Flaps</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+       <widget class="QCheckBox" name="wldlnd_cleaned_chkbx">
+        <property name="geometry">
+         <rect>
+          <x>160</x>
+          <y>130</y>
+          <width>191</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>18</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="layoutDirection">
+         <enum>Qt::LeftToRight</enum>
+        </property>
+        <property name="text">
+         <string>Wildland Gear</string>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>16</width>
+          <height>16</height>
+         </size>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+        <property name="tristate">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </widget>
      </widget>
      <widget class="QWidget" name="expo_ems_page">
       <widget class="QGroupBox" name="ems_expo_type_gb">
        <property name="geometry">
         <rect>
-         <x>90</x>
-         <y>40</y>
+         <x>20</x>
+         <y>20</y>
          <width>271</width>
          <height>81</height>
         </rect>
@@ -872,10 +1237,10 @@ Report</string>
        </property>
        <property name="geometry">
         <rect>
-         <x>90</x>
-         <y>130</y>
+         <x>20</x>
+         <y>110</y>
          <width>271</width>
-         <height>391</height>
+         <height>371</height>
         </rect>
        </property>
        <property name="frameShape">
@@ -885,7 +1250,7 @@ Report</string>
         <enum>QFrame::Plain</enum>
        </property>
        <property name="currentIndex">
-        <number>2</number>
+        <number>1</number>
        </property>
        <widget class="QWidget" name="bio_page">
         <widget class="QCheckBox" name="fluid_chkbx">
@@ -911,7 +1276,7 @@ Report</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>70</y>
+           <y>60</y>
            <width>161</width>
            <height>41</height>
           </rect>
@@ -930,7 +1295,7 @@ Report</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>130</y>
+           <y>110</y>
            <width>111</width>
            <height>41</height>
           </rect>
@@ -949,7 +1314,7 @@ Report</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>180</y>
+           <y>160</y>
            <width>251</width>
            <height>61</height>
           </rect>
@@ -969,7 +1334,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>260</y>
+           <y>230</y>
            <width>141</width>
            <height>31</height>
           </rect>
@@ -988,7 +1353,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>320</y>
+           <y>280</y>
            <width>81</width>
            <height>31</height>
           </rect>
@@ -1010,7 +1375,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>350</y>
+           <y>330</y>
            <width>251</width>
            <height>22</height>
           </rect>
@@ -1022,7 +1387,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>40</y>
+           <y>20</y>
            <width>161</width>
            <height>41</height>
           </rect>
@@ -1041,7 +1406,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>110</y>
+           <y>90</y>
            <width>161</width>
            <height>41</height>
           </rect>
@@ -1060,7 +1425,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>180</y>
+           <y>160</y>
            <width>161</width>
            <height>41</height>
           </rect>
@@ -1079,7 +1444,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>250</y>
+           <y>230</y>
            <width>161</width>
            <height>41</height>
           </rect>
@@ -1101,7 +1466,7 @@ COVID 19</string>
          <property name="geometry">
           <rect>
            <x>10</x>
-           <y>310</y>
+           <y>300</y>
            <width>251</width>
            <height>22</height>
           </rect>
@@ -1113,10 +1478,10 @@ COVID 19</string>
       <widget class="QGroupBox" name="worn_equp_gb">
        <property name="geometry">
         <rect>
-         <x>470</x>
-         <y>120</y>
-         <width>311</width>
-         <height>411</height>
+         <x>20</x>
+         <y>500</y>
+         <width>421</width>
+         <height>191</height>
         </rect>
        </property>
        <property name="font">
@@ -1173,10 +1538,10 @@ COVID 19</string>
        <widget class="QCheckBox" name="eye_prot_chkbx">
         <property name="geometry">
          <rect>
-          <x>10</x>
-          <y>220</y>
+          <x>230</x>
+          <y>40</y>
           <width>191</width>
-          <height>31</height>
+          <height>30</height>
          </rect>
         </property>
         <property name="font">
@@ -1208,7 +1573,7 @@ COVID 19</string>
         <property name="geometry">
          <rect>
           <x>10</x>
-          <y>100</y>
+          <y>110</y>
           <width>281</width>
           <height>31</height>
          </rect>
@@ -1241,8 +1606,8 @@ COVID 19</string>
        <widget class="QCheckBox" name="mask_chkbx">
         <property name="geometry">
          <rect>
-          <x>10</x>
-          <y>290</y>
+          <x>230</x>
+          <y>80</y>
           <width>101</width>
           <height>21</height>
          </rect>
@@ -1276,7 +1641,7 @@ COVID 19</string>
         <property name="geometry">
          <rect>
           <x>10</x>
-          <y>160</y>
+          <y>70</y>
           <width>101</width>
           <height>31</height>
          </rect>
@@ -1310,7 +1675,7 @@ COVID 19</string>
         <property name="geometry">
          <rect>
           <x>10</x>
-          <y>350</y>
+          <y>150</y>
           <width>291</width>
           <height>31</height>
          </rect>
@@ -1346,9 +1711,9 @@ COVID 19</string>
       <widget class="QGroupBox" name="situation_sev_gb">
        <property name="geometry">
         <rect>
-         <x>10</x>
-         <y>20</y>
-         <width>271</width>
+         <x>20</x>
+         <y>390</y>
+         <width>231</width>
          <height>81</height>
         </rect>
        </property>
@@ -1374,13 +1739,13 @@ COVID 19</string>
          <rect>
           <x>20</x>
           <y>30</y>
-          <width>231</width>
+          <width>191</width>
           <height>31</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <pointsize>12</pointsize>
+          <pointsize>10</pointsize>
           <bold>true</bold>
          </font>
         </property>
@@ -1410,9 +1775,9 @@ COVID 19</string>
       <widget class="QGroupBox" name="mats_search_gb">
        <property name="geometry">
         <rect>
-         <x>310</x>
-         <y>20</y>
-         <width>481</width>
+         <x>20</x>
+         <y>10</y>
+         <width>461</width>
          <height>351</height>
         </rect>
        </property>
@@ -1440,9 +1805,9 @@ COVID 19</string>
        <widget class="QPushButton" name="mats_search_btn">
         <property name="geometry">
          <rect>
-          <x>330</x>
+          <x>340</x>
           <y>60</y>
-          <width>131</width>
+          <width>101</width>
           <height>31</height>
          </rect>
         </property>
@@ -1455,7 +1820,7 @@ COVID 19</string>
          <rect>
           <x>20</x>
           <y>100</y>
-          <width>441</width>
+          <width>421</width>
           <height>231</height>
          </rect>
         </property>
@@ -1486,9 +1851,9 @@ COVID 19</string>
       <widget class="QGroupBox" name="mat_state_gb">
        <property name="geometry">
         <rect>
-         <x>10</x>
-         <y>120</y>
-         <width>271</width>
+         <x>250</x>
+         <y>390</y>
+         <width>231</width>
          <height>81</height>
         </rect>
        </property>
@@ -1514,13 +1879,13 @@ COVID 19</string>
          <rect>
           <x>20</x>
           <y>30</y>
-          <width>231</width>
+          <width>191</width>
           <height>31</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <pointsize>12</pointsize>
+          <pointsize>10</pointsize>
           <bold>true</bold>
          </font>
         </property>
@@ -1580,9 +1945,9 @@ COVID 19</string>
       <widget class="QGroupBox" name="mat_stable_gb">
        <property name="geometry">
         <rect>
-         <x>10</x>
-         <y>220</y>
-         <width>271</width>
+         <x>20</x>
+         <y>480</y>
+         <width>211</width>
          <height>81</height>
         </rect>
        </property>
@@ -1606,7 +1971,7 @@ COVID 19</string>
        <widget class="QRadioButton" name="mat_stable_radio_btn">
         <property name="geometry">
          <rect>
-          <x>40</x>
+          <x>30</x>
           <y>40</y>
           <width>71</width>
           <height>20</height>
@@ -1619,7 +1984,7 @@ COVID 19</string>
        <widget class="QRadioButton" name="mat_not_stable_radio_btn">
         <property name="geometry">
          <rect>
-          <x>150</x>
+          <x>110</x>
           <y>40</y>
           <width>101</width>
           <height>20</height>
@@ -1633,9 +1998,9 @@ COVID 19</string>
       <widget class="QGroupBox" name="gear_worn_gb">
        <property name="geometry">
         <rect>
-         <x>10</x>
-         <y>330</y>
-         <width>271</width>
+         <x>20</x>
+         <y>570</y>
+         <width>461</width>
          <height>81</height>
         </rect>
        </property>
@@ -1661,21 +2026,27 @@ COVID 19</string>
          <rect>
           <x>20</x>
           <y>30</y>
-          <width>231</width>
+          <width>421</width>
           <height>31</height>
          </rect>
         </property>
         <property name="font">
          <font>
-          <pointsize>12</pointsize>
+          <pointsize>9</pointsize>
           <bold>true</bold>
          </font>
         </property>
         <property name="cursor">
          <cursorShape>ArrowCursor</cursorShape>
         </property>
+        <property name="maxVisibleItems">
+         <number>5</number>
+        </property>
         <property name="placeholderText">
          <string/>
+        </property>
+        <property name="modelColumn">
+         <number>0</number>
         </property>
         <item>
          <property name="text">
@@ -1705,15 +2076,121 @@ COVID 19</string>
        </widget>
       </widget>
      </widget>
+     <widget class="QWidget" name="expo_tech_page">
+      <widget class="QGroupBox" name="tech_rescue_type_gb">
+       <property name="geometry">
+        <rect>
+         <x>20</x>
+         <y>40</y>
+         <width>330</width>
+         <height>100</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+       <property name="title">
+        <string>Type of Rescue</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+       <property name="checkable">
+        <bool>false</bool>
+       </property>
+       <widget class="QComboBox" name="tech_rescue_type_cmb">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>40</y>
+          <width>290</width>
+          <height>40</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>20</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="currentText">
+         <string/>
+        </property>
+        <property name="placeholderText">
+         <string/>
+        </property>
+        <item>
+         <property name="text">
+          <string/>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Elevator</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Rapid/Swift Water</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Still Water</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Confined Space</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Trench</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Technical Rescue</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>High Angle</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Low Angle</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Entrapment</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Other</string>
+         </property>
+        </item>
+       </widget>
+      </widget>
+     </widget>
      <widget class="QWidget" name="inner_blank_page"/>
     </widget>
     <widget class="QGroupBox" name="expo_gear_gb">
      <property name="geometry">
       <rect>
-       <x>320</x>
-       <y>340</y>
+       <x>700</x>
+       <y>230</y>
        <width>271</width>
-       <height>281</height>
+       <height>280</height>
       </rect>
      </property>
      <property name="font">

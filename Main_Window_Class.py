@@ -6,17 +6,15 @@ import Main_Screen
 import Login_Class
 
 
-class NewWindow(QtWidgets.QWidget):
+class MainWindow(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
         self.main_win_ui = Main_Screen.Ui_Form()
         self.main_win_ui.setupUi(self)
         self.screen_width, self.screen_height = pyautogui.size()
-        print(self.screen_width, self.screen_height)
         self.window_pos_x = (self.screen_width - self.width()) / 2
         self.window_pos_y = (self.screen_height - self.height()) / 3
         self.move(self.window_pos_x, self.window_pos_y)
-        print(self.window_pos_x, self.window_pos_y)
         self.main_win_ui.main_widget.setCurrentWidget(self.main_win_ui.page_2)
         self.main_win_ui.expo_type_widget.setCurrentWidget(self.main_win_ui.inner_blank_page)
         self.main_win_ui.bio_chem_widget.setCurrentWidget(self.main_win_ui.expo_type_blank_page)
@@ -72,6 +70,9 @@ class NewWindow(QtWidgets.QWidget):
 
         elif self.main_win_ui.expo_type_cmb.currentText() == "Hazmat":
             self.main_win_ui.expo_type_widget.setCurrentWidget(self.main_win_ui.expo_haz_page)
+
+        elif self.main_win_ui.expo_type_cmb.currentText() == "Technical Rescue":
+            self.main_win_ui.expo_type_widget.setCurrentWidget(self.main_win_ui.expo_tech_page)
 
     def on_bio_expo_changed(self):
         if self.main_win_ui.bio_radio_btn.isChecked():
