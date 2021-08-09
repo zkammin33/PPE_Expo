@@ -16,22 +16,6 @@
   <property name="inputMethodHints">
    <set>Qt::ImhNone</set>
   </property>
-  <widget class="QDialogButtonBox" name="confirm_new_user_btnbx">
-   <property name="geometry">
-    <rect>
-     <x>200</x>
-     <y>660</y>
-     <width>151</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="standardButtons">
-    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
-   </property>
-   <property name="centerButtons">
-    <bool>false</bool>
-   </property>
-  </widget>
   <widget class="QLineEdit" name="first_name_input">
    <property name="geometry">
     <rect>
@@ -291,7 +275,46 @@
     <set>Qt::ImhDigitsOnly|Qt::ImhPreferNumbers</set>
    </property>
   </widget>
-  <zorder>confirm_new_user_btnbx</zorder>
+  <widget class="QPushButton" name="create_button">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>184</x>
+     <y>663</y>
+     <width>81</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Create</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cancel_button">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>663</y>
+     <width>81</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Cancel</string>
+   </property>
+  </widget>
   <zorder>first_name_input</zorder>
   <zorder>first_name_label</zorder>
   <zorder>last_name_label</zorder>
@@ -306,6 +329,8 @@
   <zorder>phone_num_label</zorder>
   <zorder>phone_num_input</zorder>
   <zorder>middle_name_input</zorder>
+  <zorder>create_button</zorder>
+  <zorder>cancel_button</zorder>
  </widget>
  <tabstops>
   <tabstop>first_name_input</tabstop>
