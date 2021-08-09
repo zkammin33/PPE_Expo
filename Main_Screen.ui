@@ -507,7 +507,7 @@ Report</string>
       <number>2</number>
      </property>
      <property name="currentIndex">
-      <number>2</number>
+      <number>1</number>
      </property>
      <widget class="QWidget" name="expo_fire_page">
       <widget class="QGroupBox" name="what_burn_gb">
@@ -1505,9 +1505,9 @@ COVID 19</string>
         <property name="geometry">
          <rect>
           <x>10</x>
-          <y>30</y>
+          <y>40</y>
           <width>181</width>
-          <height>41</height>
+          <height>31</height>
          </rect>
         </property>
         <property name="font">
@@ -1641,9 +1641,9 @@ COVID 19</string>
         <property name="geometry">
          <rect>
           <x>10</x>
-          <y>70</y>
+          <y>80</y>
           <width>101</width>
-          <height>31</height>
+          <height>21</height>
          </rect>
         </property>
         <property name="font">

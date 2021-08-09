@@ -403,7 +403,7 @@ class Ui_Form(object):
         self.worn_equp_gb.setCheckable(False)
         self.face_cover_chkbx = QCheckBox(self.worn_equp_gb)
         self.face_cover_chkbx.setObjectName(u"face_cover_chkbx")
-        self.face_cover_chkbx.setGeometry(QRect(10, 30, 181, 41))
+        self.face_cover_chkbx.setGeometry(QRect(10, 40, 181, 31))
         self.face_cover_chkbx.setFont(font2)
         self.face_cover_chkbx.setLayoutDirection(Qt.LeftToRight)
         self.face_cover_chkbx.setIconSize(QSize(16, 16))
@@ -435,7 +435,7 @@ class Ui_Form(object):
         self.mask_chkbx.setTristate(False)
         self.ems_gloves_chkbx = QCheckBox(self.worn_equp_gb)
         self.ems_gloves_chkbx.setObjectName(u"ems_gloves_chkbx")
-        self.ems_gloves_chkbx.setGeometry(QRect(10, 70, 101, 31))
+        self.ems_gloves_chkbx.setGeometry(QRect(10, 80, 101, 21))
         self.ems_gloves_chkbx.setFont(font2)
         self.ems_gloves_chkbx.setLayoutDirection(Qt.LeftToRight)
         self.ems_gloves_chkbx.setIconSize(QSize(16, 16))
@@ -654,7 +654,7 @@ class Ui_Form(object):
         self.retranslateUi(Form)
 
         self.main_widget.setCurrentIndex(0)
-        self.expo_type_widget.setCurrentIndex(2)
+        self.expo_type_widget.setCurrentIndex(1)
         self.bio_chem_widget.setCurrentIndex(1)
 
 
