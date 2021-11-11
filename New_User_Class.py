@@ -2,8 +2,8 @@ import mysql.connector
 from PySide6 import QtWidgets
 import pyautogui
 import New_User
+import Login_Class
 from mysql.connector import connect, Error
-from getpass import getpass
 
 
 class CreateWindow(QtWidgets.QWidget):
@@ -22,9 +22,11 @@ class CreateWindow(QtWidgets.QWidget):
         self.create_user_ui.last_name_input.textChanged.connect(self.on_text_change)
         self.create_user_ui.middle_name_input.textChanged.connect(self.on_text_change)
         self.create_user_ui.new_email_input.textChanged.connect(self.on_text_change)
-        self.create_user_ui.new_pass_input.textChanged.connect(self.on_text_change)
-        self.create_user_ui.confirm_pass_input.textChanged.connect(self.on_text_change)
         self.create_user_ui.phone_num_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.gender_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.bday_month_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.bday_day_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.bday_year_input.textChanged.connect(self.on_text_change)
 
         # try:
         #     with connect(
@@ -46,24 +48,23 @@ class CreateWindow(QtWidgets.QWidget):
         #     print(e)
         # print("DONE")
 
-
     def ok_button_clicked(self):
         try:
-            cnx = mysql.connector.connect(host='localhost', user="ZPKammin",
-                                          password="Coebaseball1!", database="ZKammin")
+            cnx = mysql.connector.connect(host='localhost', user="LJKammin",
+                                          password="Fire!4949", database="ZKammin")
             mycursor = cnx.cursor()
             mycursor.execute("""INSERT INTO user_info (first_name, middle_initial,
-                             last_name, email, phone_number, password) VALUES
+                             last_name, email, phone_number) VALUES
                              (%s,%s,%s,%s,%s,%s)""",
-                                (self.create_user_ui.first_name_input.text(),
-                                 self.create_user_ui.middle_name_input.text(),
-                                 self.create_user_ui.last_name_input.text(),
-                                 self.create_user_ui.new_email_input.text(),
-                                 self.create_user_ui.phone_num_input.text(),
-                                 self.create_user_ui.new_pass_input.text()))
+                             (self.create_user_ui.first_name_input.text(),
+                              self.create_user_ui.middle_name_input.text(),
+                              self.create_user_ui.last_name_input.text(),
+                              self.create_user_ui.new_email_input.text(),
+                              self.create_user_ui.phone_num_input.text()))
             cnx.commit()
 
-            mycursor.execute(f"SELECT * FROM user_info WHERE first_name = '{self.create_user_ui.first_name_input.text()}'")
+            mycursor.execute(
+                f"SELECT * FROM user_info WHERE first_name = '{self.create_user_ui.first_name_input.text()}'")
             row = mycursor.fetchall()
             member_id = row[0][0]
             mycursor.execute("INSERT INTO turnout_gear (Owner_ID, Helmet, Coat) VALUES "
@@ -73,7 +74,6 @@ class CreateWindow(QtWidgets.QWidget):
         except Error as e:
             print(e)
 
-
         cnx.close()
         self.close()
 
@@ -81,15 +81,12 @@ class CreateWindow(QtWidgets.QWidget):
         self.close()
 
     def on_text_change(self):
-        if (self.create_user_ui.first_name_input.text() != "" and
-                self.create_user_ui.last_name_input.text() != "" and
-                self.create_user_ui.middle_name_input.text() != "" and
-                self.create_user_ui.new_email_input.text() != "" and
-                self.create_user_ui.new_pass_input.text() != "" and
-                self.create_user_ui.confirm_pass_input.text() != "" and
-                self.create_user_ui.phone_num_input.text() != ""):
-
-            self.create_user_ui.create_button.setEnabled(True)
-
-        else:
-            self.create_user_ui.create_button.setEnabled(False)
+        self.create_user_ui.create_button.setEnabled(bool(self.create_user_ui.first_name_input.text() and
+                                                          self.create_user_ui.last_name_input.text() and
+                                                          self.create_user_ui.middle_name_input.text() and
+                                                          self.create_user_ui.bday_month_input.text() and
+                                                          self.create_user_ui.bday_day_input.text() and
+                                                          self.create_user_ui.bday_year_input.text() and
+                                                          self.create_user_ui.gender_input.text() and
+                                                          self.create_user_ui.new_email_input.text() and
+                                                          self.create_user_ui.phone_num_input.text()))

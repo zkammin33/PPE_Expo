@@ -4,6 +4,7 @@ import Main_Window_Class
 import New_User_Class
 
 
+
 class LogWidget(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
