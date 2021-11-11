@@ -31,7 +31,6 @@ class MainWindow(QtWidgets.QWidget):
         self.main_win_ui.bio_radio_btn.toggled.connect(self.on_bio_expo_changed)
         self.main_win_ui.chem_radio_btn.toggled.connect(self.on_chem_expo_changed)
 
-
     def on_log_button_clicked(self):
         self.ui = Login_Class.LogWidget()
         self.ui.show()
@@ -51,10 +50,10 @@ class MainWindow(QtWidgets.QWidget):
         un_file = open("UN_Nums.txt", "r")
         self.main_win_ui.mats_lists_widget.clear()
 
-        searched_mat_upper = self.main_win_ui.mats_line_edit.text().title()
-        searched_mat_lower = self.main_win_ui.mats_line_edit.text().lower()
+        searched_mat_upper = self.main_win_ui.mats_line_edit.text().title().lower()
+        #searched_mat_lower = self.main_win_ui.mats_line_edit.text().lower()
         for line in un_file:
-            if searched_mat_upper in line or searched_mat_lower in line:
+            if searched_mat_upper in line or searched_mat_upper in line:
                 self.main_win_ui.mats_lists_widget.addItem(line)
         if self.main_win_ui.mats_lists_widget.count() == 0:
             self.main_win_ui.mats_lists_widget.addItem("No Materials Found")

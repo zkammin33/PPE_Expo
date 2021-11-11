@@ -53,3 +53,16 @@ EMS
 Activites Performed on Scene
 	Secure Scene
 
+
+
+New User Credentials:
+	First Name
+	Middle Initial
+	Last Name
+	Age
+	Email
+	Password
+	Phone Number
+	
+
+*New Users need to scan in their gear*
