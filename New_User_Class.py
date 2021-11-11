@@ -48,6 +48,7 @@ class CreateWindow(QtWidgets.QWidget):
         #     print(e)
         # print("DONE")
 
+    # Inserting the new user information into the server
     def ok_button_clicked(self):
         try:
             cnx = mysql.connector.connect(host='localhost', user="LJKammin",
@@ -55,7 +56,7 @@ class CreateWindow(QtWidgets.QWidget):
             mycursor = cnx.cursor()
             mycursor.execute("""INSERT INTO user_info (first_name, middle_initial,
                              last_name, email, phone_number) VALUES
-                             (%s,%s,%s,%s,%s,%s)""",
+                             (%s,%s,%s,%s,%s)""",
                              (self.create_user_ui.first_name_input.text(),
                               self.create_user_ui.middle_name_input.text(),
                               self.create_user_ui.last_name_input.text(),
@@ -63,23 +64,26 @@ class CreateWindow(QtWidgets.QWidget):
                               self.create_user_ui.phone_num_input.text()))
             cnx.commit()
 
+            # This needs to go in user settings or profile where gear will be scanned and added
             mycursor.execute(
                 f"SELECT * FROM user_info WHERE first_name = '{self.create_user_ui.first_name_input.text()}'")
             row = mycursor.fetchall()
             member_id = row[0][0]
-            mycursor.execute("INSERT INTO turnout_gear (Owner_ID, Helmet, Coat) VALUES "
+            mycursor.execute("INSERT INTO turnout_gear (owner_id, helmet_id, coat_id) VALUES "
                              "(%s,%s,%s)",
-                             (17, 1112311, 123114))
+                             (member_id, 1112311, 123114))
             cnx.commit()
+            cnx.close()
         except Error as e:
             print(e)
 
-        cnx.close()
         self.close()
 
+    # Exiting the new user window
     def cancel_button_clicked(self):
         self.close()
 
+    # Making sure all of the text fields are filled before button is enabled
     def on_text_change(self):
         self.create_user_ui.create_button.setEnabled(bool(self.create_user_ui.first_name_input.text() and
                                                           self.create_user_ui.last_name_input.text() and

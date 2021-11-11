@@ -22,6 +22,10 @@ class MainWindow(QtWidgets.QWidget):
         self.bar_code_num = ""
         self.barcodes = None
 
+        self.member_id = 0
+        self.member_username = ""
+        self.member_pass = ""
+
         self.main_win_ui.Logout_Button.clicked.connect(self.on_log_button_clicked)
         self.main_win_ui.scan_button.clicked.connect(self.on_scan_button_clicked)
         self.main_win_ui.report_button.clicked.connect(self.on_report_button_clicked)
@@ -117,3 +121,11 @@ class MainWindow(QtWidgets.QWidget):
         cv2.destroyAllWindows()
 
         print(f"Barcode number: {self.bar_code_num}")
+
+    # Setting the member_id based on which user logs in
+    def set_member_info(self, mem_id, mem_user, mem_pass):
+        self.member_id = mem_id
+        self.member_username = mem_user
+        self.member_pass = mem_pass
+        print(self.member_id, self.member_username, self.member_pass)
+
