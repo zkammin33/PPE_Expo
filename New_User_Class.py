@@ -2,7 +2,7 @@ import mysql.connector
 from PySide6 import QtWidgets
 import pyautogui
 import New_User
-import Login_Class
+import Admin_App_Class
 from mysql.connector import connect, Error
 
 
@@ -16,6 +16,8 @@ class CreateWindow(QtWidgets.QWidget):
         self.window_pos_y = (self.screen_height - self.height()) / 3
         self.move(self.window_pos_x, self.window_pos_y)
 
+        self.create_user_ui.create_button.setEnabled(True)
+
         self.create_user_ui.create_button.clicked.connect(self.ok_button_clicked)
         self.create_user_ui.cancel_button.clicked.connect(self.cancel_button_clicked)
         self.create_user_ui.first_name_input.textChanged.connect(self.on_text_change)
@@ -27,6 +29,10 @@ class CreateWindow(QtWidgets.QWidget):
         self.create_user_ui.bday_month_input.textChanged.connect(self.on_text_change)
         self.create_user_ui.bday_day_input.textChanged.connect(self.on_text_change)
         self.create_user_ui.bday_year_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.rank_cmbbx.currentTextChanged.connect(self.on_text_change)
+        self.create_user_ui.username_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.password_input.textChanged.connect(self.on_text_change)
+        self.create_user_ui.confirm_pass_input.textChanged.connect(self.on_text_change)
 
         # try:
         #     with connect(
@@ -50,34 +56,36 @@ class CreateWindow(QtWidgets.QWidget):
 
     # Inserting the new user information into the server
     def ok_button_clicked(self):
-        try:
-            cnx = mysql.connector.connect(host='localhost', user="LJKammin",
-                                          password="Fire!4949", database="ZKammin")
-            mycursor = cnx.cursor()
-            mycursor.execute("""INSERT INTO user_info (first_name, middle_initial,
-                             last_name, email, phone_number) VALUES
-                             (%s,%s,%s,%s,%s)""",
-                             (self.create_user_ui.first_name_input.text(),
-                              self.create_user_ui.middle_name_input.text(),
-                              self.create_user_ui.last_name_input.text(),
-                              self.create_user_ui.new_email_input.text(),
-                              self.create_user_ui.phone_num_input.text()))
-            cnx.commit()
-
-            # This needs to go in user settings or profile where gear will be scanned and added
-            mycursor.execute(
-                f"SELECT * FROM user_info WHERE first_name = '{self.create_user_ui.first_name_input.text()}'")
-            row = mycursor.fetchall()
-            member_id = row[0][0]
-            mycursor.execute("INSERT INTO turnout_gear (owner_id, helmet_id, coat_id) VALUES "
-                             "(%s,%s,%s)",
-                             (member_id, 1112311, 123114))
-            cnx.commit()
-            cnx.close()
-        except Error as e:
-            print(e)
-
-        self.close()
+        # try:
+        #     cnx = mysql.connector.connect(host='localhost', user="LJKammin",
+        #                                   password="Fire!4949", database="ZKammin")
+        #     mycursor = cnx.cursor()
+        #     mycursor.execute("""INSERT INTO user_info (first_name, middle_initial,
+        #                      last_name, email, phone_number) VALUES
+        #                      (%s,%s,%s,%s,%s)""",
+        #                      (self.create_user_ui.first_name_input.text(),
+        #                       self.create_user_ui.middle_name_input.text(),
+        #                       self.create_user_ui.last_name_input.text(),
+        #                       self.create_user_ui.new_email_input.text(),
+        #                       self.create_user_ui.phone_num_input.text()))
+        #     cnx.commit()
+        #
+        #     # This needs to go in user settings or profile where gear will be scanned and added
+        #     mycursor.execute(
+        #         f"SELECT * FROM user_info WHERE first_name = '{self.create_user_ui.first_name_input.text()}'")
+        #     row = mycursor.fetchall()
+        #     member_id = row[0][0]
+        #     mycursor.execute("INSERT INTO turnout_gear (owner_id, helmet_id, coat_id) VALUES "
+        #                      "(%s,%s,%s)",
+        #                      (member_id, 1112311, 123114))
+        #     cnx.commit()
+        #     cnx.close()
+        # except Error as e:
+        #     print(e)
+        #
+        # self.close()
+        self.final_approve_ui = Admin_App_Class.AdminAppWindow()
+        self.final_approve_ui.show()
 
     # Exiting the new user window
     def cancel_button_clicked(self):
@@ -93,4 +101,12 @@ class CreateWindow(QtWidgets.QWidget):
                                                           self.create_user_ui.bday_year_input.text() and
                                                           self.create_user_ui.gender_input.text() and
                                                           self.create_user_ui.new_email_input.text() and
-                                                          self.create_user_ui.phone_num_input.text()))
+                                                          self.create_user_ui.phone_num_input.text() and
+                                                          (self.create_user_ui.rank_cmbbx.currentText() != "") and
+                                                          self.create_user_ui.username_input.text() and
+                                                          self.create_user_ui.password_input.text() and
+                                                          self.create_user_ui.confirm_pass_input.text()))
+
+
+# Need to create a user and credentials to log into the database
+# Password will not be stored in the user_info table
